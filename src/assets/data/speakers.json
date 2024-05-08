@@ -1,0 +1,237 @@
+[
+    {
+        "id": "101",
+        "name":"Sathish VJ",
+        "company": {
+            "name":"AwesomeGCP",
+            "designation": ""
+        },
+        "bio": "Sathish VJ is an independent software architect, investor, and Google Cloud Authorized trainer. He has completed ten certifications on Google Cloud. He also runs a YouTube channel, called AwesomeGCP, where he teaches people how to apply Google Cloud and also prepare for the certifications.",
+        "image": "sathishvj.jpeg",
+        "type": "s",
+        "sessionId": [
+            101
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/sathishvj/",
+            "twitter": "https://twitter.com/sathishvj"
+        }
+    },
+    {
+        "id": "102",
+        "name":"Dharmesh Vaya",
+        "company": {
+            "name":"Agrahyah",
+            "designation": "Director of Technology"
+        },
+        "bio": "Cloud Solutions/Advocacy #GoogleDevExpert Cloud/Payments | Director of Technology @Agrahyah #GCPPartners | Actively manages @GDGCloudMumbai",
+        "image": "dharmesh.jpg",
+        "type": "s",
+        "sessionId": [
+            102
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/dharmeshvaya/",
+            "twitter": "https://twitter.com/DRVaya  "
+        }
+    },
+    {
+        "id": "103",
+        "name":"Priyanka Vergadia",
+        "company": {
+            "name":"Google Cloud",
+            "designation":"Developer Advocate"
+        },
+        "image": "priyanka.png",
+        "type": "s",
+        "bio": "Priyanka Vergadia is Developer Advocate at Google where she  creates content for developers to learn Google Cloud! She has created over 300 videos, articles, podcasts, courses and tutorials that have helped developers learn Google Cloud fundamentals, solve their challenges and pass certifications! She is the write and creator of #GCPSketchnote series https://github.com/priyankavergadia/GCPSketchnote. She is always happy to connect and answer questions on LinkedIn and Twitter @pvergadia",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/priyankavergadia",
+            "twitter": "https://twitter.com/pvergadia"
+            
+        },
+        "sessionId": [
+            103,118
+        ]
+    },
+    {
+        "id": "104",
+        "name":"Antrixsh Gupta",
+        "type": "s",
+        "company": {
+            "name":"Danalitic",
+            "designation":"CEO, Founder & Chief Data Scientist"
+        },
+        "image": "antrixsh.jpeg",
+        "bio": "Data Scientist with extensive experience in solving many real world business problems across different domains.Purveyor of competitive intelligence and holistic, timely analyses of Big Data made possible by the successful installation, configuration and administration of Hadoop ecosystem components and architecture.Experience In Hadoop ecosystem components and Capable of processing large sets of structured, semi-Structured and unstructured data and supporting systems application architecture.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/antrixsh-gupta-432329152/",
+            "twitter": "https://twitter.com/AntrixshG"
+        },
+        "sessionId": [
+            104
+        ]
+    },
+    {
+        "id": "105",
+        "name":"Maitreyi KV",
+        "company": {
+            "designation":"Software Engineer",
+            "name":"Xoriant"
+        },
+        "image": "maitreyi.jpeg",
+        "type": "s",
+        "bio": "Deliver Machine Learning solutions through accelerators, POC's built on the Azure and AWS. ",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/maitreyi-kv/",
+            "twitter": "https://twitter.com/maitreyi_kv"
+        },
+        "sessionId": [
+            105
+        ]
+    },
+    {
+        "id": "106",
+        "name":"Viren Luke Radhakrishnan",
+        "company": {
+            "designation":"",
+            "name":"Recent Graduate"
+        },
+        "image": "viren.jpg",
+        "type": "s",
+        "bio": "Viren graduated with Distinction in June 2020 after completing a B.Tech in Computer Science and Engineering from Christ University, Bangalore. With a strong passion for programming, he started studying Machine Learning online after graduation. He has since been certified as a Professional Machine Learning Engineer and Data Engineer by Google Cloud. He is incredibly passionate about teaching and has trained multiple batches of his juniors in Mobile App Development. He writes technical and non-technical articles on his blog at virenlr.com, including deep dives into his ML journey.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/virenlr",
+            "twitter": "https://twitter.com/virenlr"
+        },
+        "sessionId": [
+            106
+        ]
+    },
+    {
+        "id": "107",
+        "name":"Anshul Budhiraja",
+        "company": {
+            "designation":"Consultant",
+            "name":"MediaAgility"
+        },
+        "image": "anshul.jpeg",
+        "type": "s",
+        "bio": "Anshul Budhiraja is a Consultant at MediaAgility. 3X GCP Certified. A problem solver.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/anshulbudhiraja/",
+            "twitter": "https://twitter.com/anshul191"
+        },
+        "sessionId": [
+            107
+        ]
+    },
+    {
+        "id": "108",
+        "name":"Rushabh Vasa",
+        "company": {
+            "designation":"Co-Founder",
+            "name":"Agrahyah"
+        },
+        "image": "rushabh.jpeg",
+        "type": "s",
+        "bio": "Rushabh is currently Co-founder and CTO of Agrahyah Technologies and Aawaz.com. He is a Computer Engineer and entrepreneur by profession. He is listed as Google Developer Expert for Cloud Technology and Mentor for Google for Start-ups eka. Launchpad Accelerator.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/rushabhvasa/",
+            "twitter": "https://twitter.com/rushabh69"
+        },
+        "sessionId": [
+            108
+        ]
+    },
+    {
+        "id": "109",
+        "name":"Vijeta Pai",
+        "company": {
+            "designation":"",
+            "name":"Cloud-demystified.com"
+        },
+        "image": "vijeta.png",
+        "type": "s",
+        "bio": "Vijeta is a GCP Certified Technical Program Manager and visual storyteller, who is passionate about combining the power of creativity and technology to explain Cloud computing.  She's the founder of cloud-demystified.com, where she uses storytelling and analogies to explain Cloud Fundamentals and Best Practices",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/vijetapai90",
+            "twitter": "https://twitter.com/vijetapai"
+        },
+        "sessionId": [
+            108
+        ]
+    },
+    {
+        "id": "110",
+        "name":"Abdul Muneem",
+        "company": {
+            "designation":"Co-Founder",
+            "name":"Brio"
+        },
+        "image": "abdul.jpg",
+        "type": "p",
+        "bio": "I help businesses embrace the cloud and 'future of work'. Organisations are becoming more lean, more competitive and more innovative by moving to the cloud. I look forward to work with more and more customers to make them more happier and successful than before.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/abdulmuneem/",
+            "twitter": "https://twitter.com/abdulmuneem"
+        },
+        "sessionId": [
+            110
+        ]
+    },
+    {
+        "id": "111",
+        "name":"Mohit Bhardwaj",
+        "company": {
+            "designation":"Co-Founder",
+            "name":"Nagarro"
+        },
+        "image": "mohit.png",
+        "type": "p",
+        "bio": "I am a cloud architect having 14 years of experience. I have worked on various project since I began my career from 2005. Started as .NET Developer in a NGO and climbing my way up every day has been my aim in professional life. Confident, Energetic, Driven, Self Dependent are some of my basic properties through which I have managed to work on various personal and professional level in my career. ",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/mbdwaj/",
+            "twitter": ""
+        },
+        "sessionId": [
+            110
+        ]
+    },
+    {
+        "id": "112",
+        "name":"Romin Irani",
+        "company": {
+            "designation":"Partner Engineer",
+            "name":"Google"
+        },
+        "image": "romin.jpg",
+        "type": "p",
+        "bio": "My passion is to help developers succeed. I enjoy learning, writing and talking about technologies that matter to developers.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/iromin/",
+            "twitter": "https://twitter.com/iRomin"
+        },
+        "sessionId": [
+            110
+        ]
+    },
+    {
+        "id": "113",
+        "name":"Shashi Ranjan",
+        "company": {
+            "designation":"Lead Consultant",
+            "name":"MediaAgility"
+        },
+        "image": "shashi.jpg",
+        "type": "p",
+        "bio": "Hands-on and results-oriented Cloud and Big Data Architect with over 14 years of demonstrated history in design and implementation of complex enterprise integrated systems. Skilled and specializes in Enterprise Architecture, Cloud Computing, Big Data, Data Modeling, BI Analytics, Data Quality who enjoys leveraging technology and data to fuel business value generation and growth.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/s-ranjan/",
+            "twitter": ""
+        },
+        "sessionId": [
+            110
+        ]
+    }
+]

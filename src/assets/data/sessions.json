@@ -1,0 +1,256 @@
+[
+    {
+        "id": "101",
+        "slide":"",
+        "title":"Storage Decisions on Google Cloud",
+        "description":"Google has a variety of storage options, each of them useful for different use cases. Sometimes, we want to optimize for cost and sometimes, for speed. In one use case it is important to search through data and do analysis. As a cloud engineer, it becomes important to know the alternatives available and their relative benefits when picking among them to solve a project requirement. In this talk, we deconstruct a scenario around storage and solution it.",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            101
+        ]
+    },
+    {
+        "id": "102",
+        "slide":"",
+        "title":"Networking demystified",
+        "description":"Google Cloud Platform has a global network that allows you seamless connectivity across the globe. The PCA certification lays quite an emphasis on the design around networking infrastructure components. This session brings to you an intrguing case-study that has requirements to connect your On-Premise Data centers to Google Cloud and showcases products/services available on GCP. Also watch out for an interesting demo to understand how you can simulate an On-Premise DC if you dont have access to one.",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 1",
+        "date": "Jan 23, 2021",
+        "timeDuration": "30",
+        "speakers": [
+            102
+        ]
+    },
+    {
+        "id": "103",
+        "slide":"",
+        "title":"Keynote & Why Google Cloud Certifications?",
+        "description":"Opening: A certification involves a commitment of both time and money. If so, why would you invest in certifications?  Why is it important?. Closing: In this closing talk, we'll guide you in the journey ahead towards achieving your certification.",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 1",
+        "date": "Jan 22, 2021",
+        "timeDuration": "30",
+        "speakers": [
+            103
+        ]
+    },
+    {
+        "id": "104",
+        "slide":"",
+        "title":"Principles of Data Engineering",
+        "description":"Start Your Cloud Data Engineer Certification Journey",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 1",
+        "date": "Jan 23, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            104
+        ]
+    },
+    {
+        "id": "105",
+        "slide":"",
+        "title":"Simplify ML with AutoML",
+        "description":"Get started with your ML certification prep by leveraging GCPs tech to build high quality models with limited ML experience! ",
+        "link": "",
+        "track": "Cloud",
+        "format": "Day 1",
+        "date": "Jan 22, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            105
+        ]
+    },
+    {
+        "id": "106",
+        "slide":"",
+        "title":"AI Platform for Model Building, Training, and Deployment",
+        "description":"In this talk, we will explore Google Cloud's AI Platform for Model Building, Training, and Deployment. We will walk through a certification exam question, with a demo of the available offerings to solve the identified problem.",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            106
+        ]
+    },
+    {
+        "id": "107",
+        "slide":"",
+        "title":"Massive Scale Data Analytics in GCP",
+        "description":"BigQuery best practice",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            107
+        ]
+    },
+    {
+        "id": "108",
+        "slide":"",
+        "title":"Designing for security with IAM",
+        "description":"Designing for security with IAM : Cloud Identity and Access Management (or Cloud IAM as it is known) lets administrators authorize who can take action on specific resources, giving you full control of security and visibility to manage your cloud resources centrally. More specifically, we will cover; the Resource Manager, IAM roles and policies, including custom roles, and Cloud IAM best practices, including separation of duties and the principle of least privilege.",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            108
+        ]
+    },
+    {
+        "id": "109",
+        "slide":"",
+        "title":"Compute Decisions on Google Cloud Platform: Choosing the Right Compute Resource",
+        "description":"GCP has a wide range of products, and services which are broken down into various categories based on the use cases, pricing and scalability. In this talk we'll be doing a walkthrough on chosing the right compute options to applications.",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 1",
+        "date": "Jan 22, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            109
+        ]
+    },
+    {
+        "id": "110",
+        "slide":"",
+        "title":"Panel Discussion",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            110,111,112,113
+        ]
+    },
+    {
+        "id": "111",
+        "slide":"",
+        "title":"Ice Breakers",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 1",
+        "date": "Jan 22, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "112",
+        "slide":"",
+        "title":"Thanks You Note",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 1",
+        "date": "Jan 22, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "113",
+        "slide":"",
+        "title":"Ice Breakers",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "114",
+        "slide":"",
+        "title":"Thanks You Note",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "an 23, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "115",
+        "slide":"",
+        "title":"Panel Discussion",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            110,111,112,113
+        ]
+    },
+    {
+        "id": "116",
+        "slide":"",
+        "title":"Final Thankyou & Winners Announcement",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "117",
+        "slide":"",
+        "title":"Welcome Note",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "5",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "118",
+        "slide":"",
+        "title":"Next Steps & Closing Keynote",
+        "description":"",
+        "track": "Cloud",
+        "link": "",
+        "format": "Day 2",
+        "date": "Jan 23, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            103
+        ]
+    }
+    
+
+]

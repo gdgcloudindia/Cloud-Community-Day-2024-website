@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+@font-face {
+    font-family: "google-sans";
+    src: url(assets/fonts/google-font.woff2);
+    font-display: swap;
+}
+
+.google-font{
+    font-family: "google-sans", Helvetica, Arial, Sans-Serif
+}
+.devfest-font{
+    font-family: 'Space Mono', monospace;
+}
+
+.card-height {
+    min-height: 160px;
+}
+
+@media only screen and (max-width: 660px) {
+    .header {
+        font-size: 5.5vh !important;
+    }
+}

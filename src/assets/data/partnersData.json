@@ -1,0 +1,67 @@
+[
+	{
+  	 "name":"Agrahyah Technologies",
+      "desc":"Agrahyah Technologies shares its collective knowledge, resources, and frameworks of solving for India with large enterprise clients to help them unlock economic values. Our services suite include Voice, Content and Consulting services",
+      "image":"at-logo.png",
+      "cid": "1001",
+      "socialMedia":{
+      	"facebook":"",
+        "linkedin":"https://in.linkedin.com/company/agrahyah-technologies",
+        "twitter":"https://twitter.com/agrahyah",
+        "github":"",
+        "website":"https://www.agrahyah.com/"
+      }
+  },
+  {
+    "name":"MediaAgility",
+     "desc":"We believe that tech expertise without passion, empathy, and commitment is a mechanical pursuit. Hence, we pay as much attention to the journey as we are focused on the results.",
+     "image":"media-agility.png",
+     "cid": "1002",
+     "socialMedia":{
+       "facebook":"",
+       "linkedin":"https://www.linkedin.com/company/mediaagility",
+       "twitter":"https://twitter.com/MediaAgility",
+       "github":"",
+       "website":"https://www.mediaagility.com/"
+     }
+ },
+ {
+  "name":"Tatvic",
+   "desc":"Tatvic Analytics is a leading Digital Analytics consulting company with core competencies in Website & Mobile App Analytics and Conversion Rate Optimization.The companies individually and collectively built a solid reputation of excellence by consistently providing innovative data analytics and marketing solutions.",
+   "image":"tatvic.png",
+   "cid": "1003",
+   "socialMedia":{
+     "facebook":"https://www.facebook.com/Tatvic.Inc/",
+     "linkedin":"https://www.linkedin.com/company/tatvic",
+     "twitter":"https://twitter.com/tatvic",
+     "github":"",
+     "website":"https://www.tatvic.com/"
+   }
+},
+{
+  "name":"Brio",
+   "desc":"Brio is a cloud consulting company focused on IT automation and bringing about digital transformation for businesses.",
+   "image":"brio.png",
+   "cid": "1004",
+   "socialMedia":{
+     "facebook":"https://www.facebook.com/briohyd",
+     "linkedin":"https://www.linkedin.com/company/brio-technologies-private-limited/",
+     "twitter":"https://twitter.com/briotech",
+     "github":"",
+     "website":"https://www.brio.co.in/"
+   }
+},
+{
+  "name":"Nagarro",
+   "desc":"A digital product engineering leader, Nagarro drives technology-led business breakthroughs for industry leaders and challengers through agility and innovation.",
+   "image":"nagarro.png",
+   "cid": "1005",
+   "socialMedia":{
+     "facebook":"https://www.facebook.com/nagarroinc/",
+     "linkedin":"https://www.linkedin.com/company/nagarro/",
+     "twitter":"https://twitter.com/nagarro",
+     "github":"",
+     "website":"https://www.nagarro.com/"
+   }
+}
+]

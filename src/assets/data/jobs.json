@@ -1,0 +1,766 @@
+[
+    {
+      "jid":"5001",
+      "title":"Conversational AI Engineer",
+      "desc": "AI Engineer will be responsible for building the next gen chatbots/voicebots using industry standard frameworks as well as custom SaaS products",
+      "image":"at-logo.png",
+      "applylink":"http://bit.ly/work4at",
+      "responsibility": [
+        {
+          "item": "Should have hands-on experience in NLP, Machine Learning"
+        },
+        {
+          "item": "Knowledge of Bot frameworks on Azure, IBM Watson, Google DialogFlow, Amazon Polly, Facebook Messenger/WhatsApp -  including but not limited to Cognitive services, Application Insights, Interactive experience. "
+        },
+        {
+          "item": "Experience with HTTP, Sockets, REST, RESTful, JSON API services in any programming language."
+        },
+        {
+          "item": "Experience in developing software in different programming languages, and demonstrated ability to quickly learn new languages, including but not limited to Javascript, Node.js, Java, Python."
+        },
+        {
+          "item": "Experience developing continuous integration, continuous delivery, and continuous deployment pipelines for distributed apps."
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Development, testing and deployment of virtual agents.chatbots using various Bot platforms listed above"
+        },
+        {
+          "skill": "Creating intents, entities based on identified use cases and analysis of chatbot flows with the help of VUI designs."
+        },
+        {
+          "skill": "Integrating bots with messaging channels like WhatsApp, FB Messenger, DialogFlow"
+        },
+        {
+          "skill": "Knowledge of using Twilio, Gupshup or related integration platforms."
+        },
+        {
+          "skill": "Understanding of IVR technologies."
+        }
+      ],
+      "company":"1001",
+      "visibility":true
+    },
+    {
+      "jid":"5002",
+      "title":"Full Stack Developer",
+      "desc": "The developer will be core at building the next gen SaaS product that resonates with building an interactive application that sources data from several systems, using RESTful services abstract it into the UI through a node.js backend",
+      "image":"at-logo.png",
+      "applylink":"http://bit.ly/work4at",
+      "responsibility": [
+        {
+          "item": "Building interactive application that aggregates data from multiple systems and use/build RESTful service for integrating the UI through a Node.js backend."
+        },
+        {
+          "item": "Assist in defining the application architecture decisions to support a high-performance and scalable product."
+        },
+        {
+          "item": "Help maintain code quality and make efficient coding a way of life."
+        },
+        {
+          "item": "Architect, Develop, test and deploy robust products that are fast, scalable and highly responsive."
+        },
+        {
+          "item": "Design and maintain large and complex databases."
+        },
+        {
+          "item": "Deploy applications on GCP/AWS cloud with the ability to resolve any issues with the assistance of DevOps engineers."
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Fullstack development using MEAN/MERN or just plain Node.js and other similar components"
+        },
+        {
+          "skill": "JavaScript with excellent understanding of functional programming, closure, XML, JSON, Ajax, and jQuery, DOM events and event-based processing (like Spine or Backbone)"
+        },
+        {
+          "skill": "Strong NoSQL and SQL experience using MongoDB / MySQL / SQL Server"
+        },
+        {
+          "skill": "Frameworks like Bootstrap, Express.js, Sails.js, Mean.js"
+        },
+        {
+          "skill": "Excellent knowledge of HTTP header, cookies, status codes, GET, GET, POST, PUT, DELETE"
+        },
+        {
+          "skill": "Creating secure RESTful-based web services in XML and JSON, Javascript, jQuery"
+        },
+        {
+          "skill": "Continuous integration (Jenkins/Hudson) and version control (SVN, Git)."
+        }
+      ],
+      "company":"1001",
+      "visibility":true
+    },
+    {
+      "jid":"5003",
+      "title":"Cloud DevOps Engineer",
+      "desc": "Execute Cloud engineering tasks and provide support for DevOps initiatives, esp. around Google Cloud Platform, with good experience on Terraform, Docker, Kubernetes, Python Scripting, GitLab etc.",
+      "image":"at-logo.png",
+      "applylink":"http://bit.ly/work4at",
+      "responsibility": [
+        {
+          "item": "Infrastructure provisioning and configuration management"
+        },
+        {
+          "item": "Workflow orchestration"
+        },
+        {
+          "item": "Implement and manage CI/CD pipeline"
+        },
+        {
+          "item": "Build and maintain highly available systems"
+        },
+        {
+          "item": "Data loss prevention"
+        },
+        {
+          "item": "Stackdriver Monitoring"
+        },
+        {
+          "item": "Bash/Shell Scripting"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Must have at least 3+ years of experience as a DevOps engineer or a similar capacity"
+        },
+        {
+          "skill": "Must have significant cloud deployment and operations experience with GCP"
+        },
+        {
+          "skill": "Expertise in Google Cloud Platform (GCP) and Terraform"
+        },
+        {
+          "skill": "Expertise in Terraform"
+        },
+        {
+          "skill": "Proficiency with container orchestration (Docker and Kubernetes)"
+        },
+        {
+          "skill": "Experience with Docker, Docker-Compose, Docker-Network"
+        },
+        {
+          "skill": "Experience in Linux Administration and scripting"
+        },
+        {
+          "skill": "Coding with Terraform and Python"
+        },
+        {
+          "skill": "Strong experience with databases such as SQL, MS SQL, MySQL & Mongo."
+        },
+        {
+          "skill": "Must be familiar with Gitlab"
+        },
+        {
+          "skill": "Familiarity with Composer, Catalog, etc."
+        },
+        {
+          "skill": "Excellent troubleshooting and problem-solving skills"
+        }
+      ],
+      "company":"1001",
+      "visibility":true
+    },
+    {
+      "jid":"5004",
+      "title":"Cloud Engineer (Windows)",
+      "desc": "Execute enterprise-wide Windows infrastructure engineering tasks and provide support for enterprise systems and services on the Microsoft Windows Server platform, including but not limited to Active Directory, Hyper-V, MS Storage Space, SQL Server in either local or public cloud/hosted environments.",
+      "image":"at-logo.png",
+      "applylink":"http://bit.ly/work4at",
+      "responsibility": [
+        {
+          "item": "Manage and monitor all installed systems and infrastructure"
+        },
+        {
+          "item": "Install, configure, test and maintain operating systems, application software and system management tools"
+        },
+        {
+          "item": "Among your responsibilities will be the installation and configuration of storage, servers, Microsoft servers (Cluster Services, File Services, Active Directory Services, Certificate Authority services), Virtual Infrastructure (Hyper-V), IIS, MS SQL and backup system"
+        },
+        {
+          "item": "Proactively ensure the highest levels of systems and infrastructure availability"
+        },
+        {
+          "item": "Monitor and test application performance for potential bottlenecks, identify possible solutions, and work with developers to implement those fixes"
+        },
+        {
+          "item": "Maintain security, backup, and redundancy strategies"
+        },
+        {
+          "item": "Write and maintain custom scripts to increase system efficiency and lower the human intervention time on any tasks"
+        },
+        {
+          "item": "Participate in the design of information and operational support systems"
+        },
+        {
+          "item": "Provide 2nd and 3rd level support"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Minimum 3+ years Windows support experience, 7, 8, 10, and Microsoft Server (All Flavors)"
+        },
+        {
+          "skill": "Familiar with WAN/LAN technologies"
+        },
+        {
+          "skill": "Understanding of the OSI model"
+        },
+        {
+          "skill": "Virtualization – MS Hyper-V"
+        },
+        {
+          "skill": "Strong understanding of Internet protocols including HTTP(S), SSL, TCP, IP"
+        },
+        {
+          "skill": "MS IIS administration and configuration"
+        },
+        {
+          "skill": "MS Active Directory"
+        },
+        {
+          "skill": "MS Storage Space"
+        },
+        {
+          "skill": "DNS and DHCP"
+        },
+        {
+          "skill": "SSL certificates and PKI"
+        },
+        {
+          "skill": "Familiar with ITIL framework"
+        },
+        {
+          "skill": "Strong PowerShell experience"
+        },
+        {
+          "skill": "Cloud Certifications in GCP/AWS will be an added advantage."
+        }
+      ],
+      "company":"1001",
+      "visibility":true
+    },
+    {
+      "jid":"5005",
+      "title":"Solution Engineer",
+      "desc": "Analyze Client Requirements,Design & Develop Queries, Design & Develop Enterprise Cloud Applications/Solutions, Maintain & Monitor SQL Servers and Data Warehouse, Conduct research to answer industry and business questions, Data security and Data Protection.",
+      "image":"tatvic.png",
+      "applylink":"https://www.tatvic.com/job/solution-engineer/",
+      "responsibility": [
+        {
+          "item": "Solutions Development and Assets Creation"
+        },
+        {
+          "item": "Work with Solutions Specialist to develop/ automate/ standardize solutions through effective SDLC frameworks close- loop with feedback from the internal and external stakeholders"
+        },
+        {
+          "item": "Contribute to knowledge assets and internal SOP documentation in the form of ERD diagrams, Functional Specs docs, Code bases on GIT/ CSR, Sandbox/ Demo, User Manuals (assisting technical writers)"
+        },
+        {
+          "item": "R&D and Training"
+        },
+        {
+          "item": "Do extensive research on new technologies, tools and platforms, solution packages, frameworks built by Google/ Amazon/ third party/ open source that can be utilized for the internal solutions POCs"
+        },
+        {
+          "item": "Train internal Delivery or be the g-to for DEL technical teams for the usage of all assets generated by the Solutions team."
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Data Structure & Algorithms"
+        },
+        {
+          "skill": "Solution Design (ERD, FSD, Arch, Data Flow)"
+        },
+        {
+          "skill": "Database Languages (SQL/NoSQL)"
+        },
+        {
+          "skill": "Scripting Languages (Frontend & Backend)"
+        },
+        {
+          "skill": "Cloud Technology (AWS/GCP)"
+        },
+        {
+          "skill": "Machine Learning (DS Models, NLP, DNN, AutoML)"
+        },
+        {
+          "skill": "APIs & Libraries"
+        }
+      ],
+      "company":"1003",
+      "visibility":false
+    },
+    {
+      "jid":"5006",
+      "title":"Cloud Engineer",
+      "desc": "",
+      "image":"tatvic.png",
+      "applylink":"https://www.tatvic.com/job/cloud-engineer/",
+      "responsibility": [
+        {
+          "item": "Analyze Client Requirements"
+        },
+        {
+          "item": "Design & Develop Data APIs"
+        },
+        {
+          "item": "Design & Develop Enterprise Cloud Applications/Solutions"
+        },
+        {
+          "item": "Maintain & Monitor the Cloud Application/Solutions and Data APIs"
+        },
+        {
+          "item": "Conduct research to answer industry and business questions"
+        },
+        {
+          "item": "Maintain coding standards & Building reusable code and libraries for future use"
+        },
+        {
+          "item": "Data security and data protection"
+        },
+        {
+          "item": "Configure/set up the systems/services to maintain Cloud Application/Solutions securely using managed cloud security services"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Data Structure & Algorithms"
+        },
+        {
+          "skill": "Libraries/Packages"
+        },
+        {
+          "skill": "Python/Node JS"
+        },
+        {
+          "skill": "Cloud Technology(AWS/GCP/Azure)"
+        },
+        {
+          "skill": "Cloud Technology (AWS/GCP)"
+        },
+        {
+          "skill": "Testing, Code Debugging & Error Logging"
+        },
+        {
+          "skill": "API & Web Services"
+        },
+        {
+          "skill": "Database"
+        },
+        {
+          "skill": "Version Control Sysytem"
+        }
+        
+      ],
+      "company":"1003",
+      "visibility":false
+    },
+    {
+      "jid":"5007",
+      "title":"BigQuery Developer",
+      "desc": "",
+      "image":"tatvic.png",
+      "applylink":"https://www.tatvic.com/job/bigquery-developer/",
+      "responsibility": [
+        {
+          "item": "Analyze Client Requirements"
+        },
+        {
+          "item": "Design & Develop Queries"
+        },
+        {
+          "item": "Design & Develop Enterprise Cloud Applications/Solutions"
+        },
+        {
+          "item": "Maintain & Monitor SQL Servers and Data Warehouse"
+        },
+        {
+          "item": "Conduct research to answer industry and business questions"
+        },
+        {
+          "item": "Review data for deficiencies or errors, correcting any incompatibilities, and checking output using various validation techniques"
+        },
+        {
+          "item": "Maintain coding standards & Building reusable code and libraries for future use"
+        },
+        {
+          "item": "Data security and Data Protection"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "SQL/NoSQL"
+        },
+        {
+          "skill": "Data Warehouse/SQL Server management"
+        },
+        {
+          "skill": "Python/Node JS"
+        },
+        {
+          "skill": "Cloud Technology (AWS/GCP)"
+        },
+        {
+          "skill": "Data Analysis"
+        },
+        {
+          "skill": "Reports and Visualization"
+        }
+        
+      ],
+      "company":"1003",
+      "visibility":false
+    },
+    {
+      "jid":"5008",
+      "title":"Associate Staff / Staff Engineer (DevOps-Cloud-Automation)",
+      "desc": "At Nagarro, you can look forward to a work culture that is dynamic and non-hierarchical. You will be given opportunities to add value to challenging and complex assignments, while collaborating with world class technologists. The versatile environment here, helps foster fresh perspectives and enables you to deliver high quality code. There will be ample opportunities provided for skill upgradation to accelerate your professional and personal development.",
+      "image":"nagarro.png",
+      "applylink":"https://www.nagarro.com/en/careers",
+      "responsibility": [
+        {
+          "item": "Understanding functional requirements thoroughly and analysing the client’s needs in the context of the project"
+        },
+        {
+          "item": "Envisioning the overall solution for defined functional and non-functional requirements, and being able to define technologies, patterns and frameworks to realize it"
+        },
+        {
+          "item": "Determining and implementing design methodologies and tool sets"
+        },
+        {
+          "item": "Enabling application development by coordinating requirements, schedules, and activities."
+        },
+        {
+          "item": "Being able to lead/support UAT and production roll outs"
+        },
+        {
+          "item": "Creating, understanding and validating WBS and estimated effort for given module/task, and being able to justify it"
+        },
+        {
+          "item": "Addressing issues promptly, responding positively to setbacks and challenges with a mindset of continuous improvement"
+        },
+        {
+          "item": "Giving constructive feedback to the team members and setting clear expectations."
+        },
+        {
+          "item": "Helping the team in troubleshooting and resolving of complex bugs"
+        },
+        {
+          "item": "Carrying out POCs to make sure that suggested design/technologies meet the requirements"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Strong knowledge and experience in GCP, AWS, CI/CD, Jenkins, Terraform, kubernetes. "
+        },
+        {
+          "skill": "Experience in Source Code Management: Gitlab/ Github/ SVN/ Subversion/ Bitbucket/ NuGet/ Artifactory "
+        },
+        {
+          "skill": "Experience in Build Automation Server: AWS Codebuild/ AWS Codedeploy/ Jenkins/ Cloudbees/ Bamboo/ Circle CI/ Gitlab CI/ Gitlab runner/ Urban Code deploy/ GO CD/ Team City/ Octopus/ Sonar."
+        },
+        {
+          "skill": "Middleware: tomcat/ Jboss/ WildFly/ Websphere/ Weblogic/ Payara/ Jetty/ Glassfish/ ColdFusion/ IIS/ Ngnix/ Apache/Database:MSSql/ Oracle/ MySQL/ Sybase/ Postgres/ MongoDB/ Berkeley DB/ memcached/ RDS "
+        },
+        {
+          "skill": "Container Management: rkt/ Docker/ Docker Swarm/ Kubernetes/ Openshift/ Apache Mesos"
+        },
+        {
+          "skill": "Collaboration: JIRA/ Confluence/ Azure DevOps "
+        },
+        {
+          "skill": "Orchestration: Electric flow/ Electric Cloud Automic/ Ansible Tower/ AWX/ Jenkins"
+        },
+        {
+          "skill": "Cloud: Openstack/ AWS/ Azure/ GCP/ IBM Bluemix/ Cloud Foundary "
+        },
+        {
+          "skill": "Fundamental knowledge of design patterns"
+        },
+        {
+          "skill": "Experience in communicating effectively with users, other technical teams, and management to collect requirements, describe software product features, and technical designs"
+        },
+        {
+          "skill": "Passionate about building great solutions"
+        },
+        {
+          "skill": "Mentoring the team members to meet the client's needs and holding them accountable for high standards of delivery"
+        },
+        {
+          "skill": "Being able to understand and relate technology integration scenarios and be able to apply these learnings in complex troubleshooting scenarios"
+        }
+        
+      ],
+      "company":"1005",
+      "visibility":false
+    },
+    {
+      "jid":"5009",
+      "title":"Data Engineer",
+      "desc": "As a premier Google Cloud partner, we take our clients from idea to impact with ‘Strategic Thought Partnership’ and ‘Intelligence Solutions’. We offer a full spectrum of services from Digital Advisory (consulting), Digital Transformation (implementation), and Digital Operations (continuous improvement). We do this through a unique Braintrust engagement model, Agile development, and deep expertise on the latest technologies.",
+      "image":"media-agility.png",
+      "applylink":"https://hire.peoplehum.com/jobs/MediaAgility/2a33aaf3-5c66-4ebc-a2e2-60f5bab86d78?source_name=PEOPLEHUM_EXTERNAL&source_type=Direct",
+      "responsibility": [
+        {
+          "item": "Design and Develop end to end streaming and batch data analytics pipelines."
+        },
+        {
+          "item": "Design architectures, publish reference code and establish data structure design based on business requirements. Should be pretty hands on."
+        },
+        {
+          "item": "Perform code reviews, ensure code quality and encourage a culture of excellence."
+        },
+        {
+          "item": "Be a front face of the company in front of customers and prospects. Required Skills"
+        },
+        {
+          "item": "Desired Certification: Google Cloud Certified Professional Data Engineer"
+        },
+        {
+          "item": "Strong analytical skills."
+        },
+        {
+          "item": "3+ years of strong technology experience in the field of Big Data, Data Analytics, Data Science or Machine Learning."
+        },
+        {
+          "item": "Strong SQL Experience"
+        },
+        {
+          "item": "Big Data experience - should have experience in building end to end data pipelines with products like Apache Beam, Kafka, Spark etc."
+        },
+        {
+          "item": "Cloud Experience- Should have experience with Google Cloud data products like BigQuery, DataFlow, Firestore, CloudSQL etc."
+        },
+        {
+          "item": "Should understand and be able to command architecture design for Data Analytics and Machine Learning systems."
+        },
+        {
+          "item": "Experience in Agile Methodologies"
+        },
+        {
+          "item": "Working Knowledge of BI & visualization tools like Google Data Studio, Power-BI, Qlik Sense, Micro-strategy etc"
+        },
+        {
+          "item": "Familiarity with source repositories (GIT, BitBucket etc.)"
+        },
+        {
+          "item": "Excellent communication skills"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "GCP Data Engineer"
+        }
+        
+      ],
+      "company":"1002",
+      "visibility":false
+    },
+    {
+      "jid":"5010",
+      "title":"Cloud Architect",
+      "desc": "The ideal candidate will have a solid understanding of cloud computing and technology systems,  as well as experience designing and transferring applications to the cloud. Passion to tech-awesome, insatiable desire to learn the latest of the new-age cloud tech, highly  analytical aptitude and a strong ‘desire to deliver’ ",
+      "image":"media-agility.png",
+      "applylink":"https://hire.peoplehum.com/jobs/MediaAgility/c022240b-b639-4d78-ac09-2cd4d6a0b5f4?source_name=PEOPLEHUM_EXTERNAL&source_type=Direct",
+      "responsibility": [
+        {
+          "item": "This position will be responsible to propose architectural solutions to help move & improve infra  from on-premise to cloud or help optimize cloud spend from one public cloud to the other. "
+        },
+        {
+          "item": "Be the first one to experiment on new age cloud offerings, help define the best practice as a  thought leader for cloud, automation & Dev-Ops, be a solution visionary and technology expert  across multiple channels. "
+        },
+        {
+          "item": "Continually augment skills and learn new tech as the technology and client needs evolve "
+        },
+        {
+          "item": "Use your experience in Google cloud platform or Microsoft Azure to build hybrid-cloud solutions for customers. "
+        },
+        {
+          "item": "Provide leadership to project teams, and facilitates the definition of project deliverables around  core Cloud based technology and methods."
+        },
+        {
+          "item": "Define tracking mechanisms and ensure IT standards and methodology are met; deliver quality  results."
+        },
+        {
+          "item": "Participate in technical reviews of requirements, designs, code and other artifacts "
+        },
+        {
+          "item": "Identify and keep abreast of new technical concepts in google cloud platform "
+        }
+        
+      ],
+      "skills": [
+        {
+          "skill": "GCP"
+        },
+        {
+          "skill": "Cloud Architect"
+        }
+        
+      ],
+      "company":"1002",
+      "visibility":false
+    },
+    {
+      "jid":"5011",
+      "title":"Cloud Engineer",
+      "desc": "Hands-on experience in Cloud Computing (GCP/Azure) and IT operational experience in a global  enterprise environment. Knowledge on programming against cloud platforms such as Google Cloud Platform and lean  development methodologies. ",
+      "image":"media-agility.png",
+      "applylink":"https://hire.peoplehum.com/jobs/MediaAgility/1b9c1420-28c9-42e4-842f-4feb1a8d0ef1?source_name=PEOPLEHUM_EXTERNAL&source_type=Direct",
+      "responsibility": [
+        {
+          "item": "Consistently strive to acquire new skills on Cloud, DevOps, Big Data, AI and ML technologies "
+        },
+        {
+          "item": "Design, deploy and maintain Cloud infrastructure "
+        },
+        {
+          "item": "Develop tools and automation to make platform operations more efficient, reliable and  reproducible "
+        },
+        {
+          "item": "Create Container Orchestration (Kubernetes, Docker), strive for full automated solutions, ensure  the up-time and security of all cloud platform systems and infrastructure "
+        },
+        {
+          "item": "Providing business, application, and technology consulting in feasibility discussions with  technology team members, customers and business partners "
+        },
+        {
+          "item": "Take initiatives to lead, drive and solve during challenging scenarios"
+        }
+        
+      ],
+      "skills": [
+        {
+          "skill": "Cloud"
+        },
+        {
+          "skill": "DevOps"
+        }
+        
+      ],
+      "company":"1002",
+      "visibility":false
+    },
+    {
+      "jid":"5012",
+      "title":"GCP Data Engineer",
+      "desc": "As a premier Google Cloud partner, we take our clients from idea to impact with ‘Strategic Thought Partnership’ and ‘Intelligence Solutions’. We offer a full spectrum of services from Digital Advisory (consulting), Digital Transformation (implementation), and Digital Operations (continuous improvement). We do this through a unique Braintrust engagement model, Agile development, and deep expertise on the latest technologies.",
+      "image":"media-agility.png",
+      "applylink":"https://hire.peoplehum.com/jobs/MediaAgility/9e5ac8b2-b8d5-4917-afe3-a817d3b4d5f2?source_name=PEOPLEHUM_EXTERNAL&source_type=Direct",
+      "responsibility": [
+        {
+          "item": "Design and Develop end to end streaming and batch data analytics pipelines. From data ingestion, processing, storage, analysis, machine-learning to visualization. Understand big-data principles and best practices. Deliver projects in data analytics, machine learning and AI."
+        },
+        {
+          "item": "Design architectures, publish reference code and establish data structure design based on business requirements. Should be pretty hands on. "
+        },
+        {
+          "item": "Perform code reviews, ensure code quality and encourage a culture of excellence."
+        },
+        {
+          "item": "Be a front face of the company in front of customers and prospects."
+        }
+        
+      ],
+      "skills": [
+        {
+          "skill": "3+ years of strong technology experience in the field of Big Data, Data Analytics, Data Science or Machine Learning."
+        },
+        {
+          "skill": "Strong SQL Experience"
+        },
+        {
+          "skill": "Big Data experience - should have experience in building end to end data pipelines with products like Apache Beam, Kafka, Spark etc."
+        },
+        {
+          "skill": "Cloud Experience- Should have experience with Google Cloud data products like BigQuery, DataFlow, Firestore, CloudSQL etc."
+        },
+        {
+          "skill": "Should understand and be able to command architecture design for Data Analytics and Machine Learning systems."
+        },
+        {
+          "skill": "Experience in Agile Methodologies"
+        },
+        {
+          "skill": "Familiarity with source repositories (GIT, BitBucket etc.)"
+        },
+        {
+          "skill": "Excellent communication skills"
+        }
+        
+      ],
+      "company":"1002",
+      "visibility":false
+    },
+    {
+      "jid":"5013",
+      "title":"Delivery Lead - Cloud Security",
+      "desc": "As a premier Google Cloud partner, we take our clients from idea to impact with ‘Strategic Thought Partnership’ and ‘Intelligence Solutions’. We offer a full spectrum of services from Digital Advisory (consulting), Digital Transformation (implementation), and Digital Operations (continuous improvement). We do this through a unique Braintrust engagement model, Agile development, and deep expertise on the latest technologies.",
+      "image":"media-agility.png",
+      "applylink":"https://hire.peoplehum.com/jobs/MediaAgility/9e62bc54-93af-417b-b658-5bc2d19798b5?source_name=PEOPLEHUM_EXTERNAL&source_type=Direct",
+      "responsibility": [
+        {
+          "item": "Responsible for overall delivery of Cloud security, risk and compliance services"
+        },
+        {
+          "item": "Build a team passionate security, risk and compliance experts "
+        },
+        {
+          "item": "Provides oversight over the implementation of approved security architecture/policies/procedures for a portfolio clients and engagements"
+        },
+        {
+          "item": "Manages the performance of the staff responsible for delivering cloud security services"
+        },
+        {
+          "item": "Drive compliance with the approved security baseline, including policies, procedures, and standards"
+        },
+        {
+          "item": "Initiate and conduct project security reviews to identify cloud infrastructure security risks"
+        },
+        {
+          "item": "Provide cloud security guidance and support to project teams where necessary"
+        },
+        {
+          "item": "Reviews and oversee the implementation of approved recommendations on cloud security design and implementation"
+        }
+        
+      ],
+      "skills": [
+        {
+          "skill": "Hands-on experience with implementing or performing security operations using GCP, AWS and/or Azure security services"
+        },
+        {
+          "skill": "Experience managing staff involved in the design and integration of marketplace leading vulnerability management, threat management, monitoring, and data protection processes and platform tools"
+        },
+        {
+          "skill": "Experience designing securing controls and advising against security requirements to support cloud migration efforts"
+        },
+        {
+          "skill": "Experience in a security operations role, including security monitoring and incident response"
+        },
+        {
+          "skill": "Strong knowledge of industry trends in cloud and security technology"
+        },
+        {
+          "skill": "Excellent communication skills and the ability to partner and collaborate with both engineers and business users on risk management and security operations"
+        }
+        
+      ],
+      "company":"1002",
+      "visibility":false
+    },
+    {
+        "jid":"5001",
+        "title":"Job 2",
+        "desc":"",
+        "applylink":"",
+        "responsibility":"",
+        "skills":"",
+        "company":"1002",
+        "visibility":false
+      }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is a Google Cloud Community Days event?",
+        "answer": "Google Cloud Community Days is a series of community-led events organised across India to help developers learn more about Google Cloud Certifications  and Cloud technologies. The events bring together Google Cloud practitioners to share ideas, learn and grow together."
+    },
+    {
+        "question": "What are GDGs?",
+        "answer": "GDGs are focused on community building and learning about Google’s technologies."
+    },
+    {
+        "question": "Who can register for Google Cloud Community Days events?",
+        "answer": "Cloud enthusiasts, aspirants, professionals and experts. Anyone with the passion of learning, who’s fond of cloud technology, can register and attend any Google Cloud Community Day event near them."
+    },
+    {
+        "question": "How can I find a Google Cloud Community Days event near me?",
+        "answer": "You can easily find an event near you on the home page of this website."
+    },
+    {
+        "question": "Are Google Cloud Community Days events paid?",
+        "answer": "Google Cloud Community Days events are organized by city-wide GDG Cloud chapters who may choose to keep the events paid or free to attend as suitable for their local community."
+    },
+    {
+        "question": "What will attendees get by participating in the event?",
+        "answer": "We have a plethora of AMAZING perks awaiting for you! Every participant who attends a Google Cloud Community Day event takes away lots of learning along with loads of swags."
+    },
+    {
+        "question": "How can I become a member of GDG or GDG Cloud?",
+        "answer": "Head to Google Developers Group website (https://gdg.community.dev/) and find the nearest GDG or GDG Cloud chapter in your location."
+    },
+    {
+        "question": "How can I communicate my queries?",
+        "answer": "Reach out to us at: cloudcommunitydays@gmail.com. You can also send your queries to the communication channels to your nearest GDG or GDG Cloud chapters."
+    }
+]
