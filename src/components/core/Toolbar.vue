@@ -3,8 +3,9 @@
     app
     fixed
     clipped-left
-    class="white"
     flat
+    style="background-color: #000 !important;"
+    class="pt-4"
   >
     <v-app-bar-nav-icon
       aria-label="Hamburger Btn"
@@ -22,19 +23,19 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          :src="require('@/assets/img/logo.png')"
+          :src="require('@/assets/img/logo-vector-svg.svg')"
           transition="scale-transition"
-          width="35"
+          width="170"
         />
       </router-link>
     </div>
     <v-toolbar-title class="google-font px-0 pr-5" style="width: 250px">
-      <router-link
+      <!-- <router-link
         to="/"
         class="google-font grey--text text--darken-2"
         style="text-decoration: none; font-size: 110%"
         >GDG Cloud India</router-link
-      >
+      > -->
     </v-toolbar-title>
     <!-- <v-spacer></v-spacer> -->
     <v-tabs
@@ -51,23 +52,25 @@
         :key="i"
         :to="link.to"
         @click="onClick($event, link)"
-        style="text-transform: capitalize; font-size: 100%"
+        style="text-transform: capitalize; font-size: 100%; color: #fff; text-decoration: none;"
         >{{ link.text }}</v-tab
       >
     </v-tabs>
     <!-- <PushNotification /> -->
     <!--  -->
     <!-- v-if="!(this.$route.name === 'Registration')"  -->
-    <!-- <v-btn style="text-transform: capitalize;border-radius:5px;padding:00% 40px;" dark color="#4285F4" class="ml-4 google-font hidden-md-and-down" to="/registration" depressed
-      >Register</v-btn> -->
-    <v-btn
+    <v-btn style="text-transform: capitalize;font-weight:600;border-radius:40px;padding:00% 40px;color: #000;" dark color="#fff" class="ml-4 google-font hidden-md-and-down" target="_blank" href="https://gdg.community.dev/" depressed
+      >Join GDG today</v-btn>
+    <!-- <v-btn
       aria-label="Share Button"
       icon
       v-on:click="shareMe"
       class="hidden-sm-and-up"
+      style="color:#fff;"
     >
       <v-icon>mdi-share-variant</v-icon>
-    </v-btn>
+      Join GDG Today
+    </v-btn> -->
   </v-app-bar>
 </template>
 
@@ -128,5 +131,15 @@ export default {
 <style>
 .v-toolbar .v-toolbar__content {
   /* border-bottom: 1px solid #666666; */
-  border-bottom: 1px solid rgb(218, 220, 224);
-}</style>
+  /* border-bottom: 1px solid rgb(218, 220, 224); */
+  height: 64px;
+    background: #1f2023 !important;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 40px;
+}
+.v-toolbar {
+  z-index: 1999 !important;
+    border: none !important
+}
+</style>

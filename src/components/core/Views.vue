@@ -1,8 +1,8 @@
 <template>
   <v-container
     fluid
-    class="pa-0 ma-0 white"
-    style = "height:100%"
+    class="pa-0 ma-0"
+    style = "height:100%;background-color: #000 !important;"
   >
     <v-slide-y-reverse-transition>
       <router-view v-show="show" />

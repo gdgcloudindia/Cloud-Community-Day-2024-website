@@ -2,7 +2,7 @@
   <v-bottom-navigation
     grow
     app
-    background-color="white"
+    background-color="black"
     color="#4285F4"
     class="hidden-md-and-up"
     style="overflow-x: hidden;"

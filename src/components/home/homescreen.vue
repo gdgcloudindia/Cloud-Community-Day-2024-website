@@ -4,7 +4,6 @@
   <v-row justify="center" align="center" class="p py-8">
       <v-col md="6" cols="12" class="text-center">
         <v-img
-          class="white"
           style="width:90%;margin-left:auto;margin-right:auto"
           :src="require('@/assets/img/cover.png')"
         >

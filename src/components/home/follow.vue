@@ -2,7 +2,7 @@
   <v-container fluid class="">
     <v-row justify="center" align="center">
       <v-col>
-        <p
+        <!-- <p
           class="google-font"
           style="font-size: 3.5vh;line-height: 1.22;font-weight:500; color: #4285F4;"
         >
@@ -18,13 +18,14 @@
             style="color:#4285F4;text-decoration:none"
           >#GoogleCloudCommunityDay</a>
           for the latest updates and news.
-        </p>
+        </p> -->
         <v-tooltip bottom >
           <template v-slot:activator="{ on }">
             <v-btn
               text
-              icon
-              style="background:#4285F4"
+              icon  
+              rounded
+              style="background: rgb(31 32 35);height: 45px;width: 146px;"
               class="mx-2"
               v-on="on"
               color="white"
@@ -32,8 +33,11 @@
               href="https://twitter.com/GDGIndia"
               target="_blank"
               slot="activator"
+              
             >
-              <v-icon>mdi-twitter</v-icon>
+              <!-- <v-icon>mdi-twitter</v-icon> -->
+              X
+              GDGIndia
             </v-btn>
           </template>
           <span>Twitter</span>
@@ -42,18 +46,21 @@
          <v-tooltip bottom>
             <template v-slot:activator="{ on }">
               <v-btn
-                text
-                icon
-                style="background:#ff0000"
-                class="mx-2"
-                color="white"
-                v-on="on"
-                rel="noreferrer"
-                href="https://www.youtube.com/channel/UCJsZoFDt7rfxPBI1esak8JQ/"
-                target="_blank"
-                slot="activator"
-              >
+              text
+              icon  
+              rounded
+              style="background: rgb(31 32 35);height: 45px;width: 146px;"
+              class="mx-2"
+              v-on="on"
+              color="white"
+              rel="noreferrer"
+              href="https://www.youtube.com/channel/UCJsZoFDt7rfxPBI1esak8JQ/"
+              target="_blank"
+              slot="activator"
+              
+            >
                 <v-icon>mdi-youtube</v-icon>
+                GDGIndia
               </v-btn>
             </template>
             <span>YouTube</span>
@@ -62,18 +69,22 @@
           <v-tooltip bottom>
             <template v-slot:activator="{ on }">
               <v-btn
-                text
-                icon
-                v-on="on"
-                style="background:#cd486b"
-                class="mx-2"
-                color="white"
-                rel="noreferrer"
-                href="https://www.instagram.com/gdg.india/"
-                target="_blank"
-                slot="activator"
-              >
+              text
+              icon  
+              rounded
+              style="background: rgb(31 32 35);height: 45px;width: 146px;"
+              class="mx-2"
+              v-on="on"
+              color="white"
+              rel="noreferrer"
+              href="https://www.instagram.com/gdgindia/"
+              target="_blank"
+              slot="activator"
+              
+            >
+
                 <v-icon>mdi-instagram</v-icon>
+                 @gdgindia
               </v-btn>
             </template>
             <span>Instagram</span>
@@ -82,18 +93,21 @@
           <v-tooltip bottom>
             <template v-slot:activator="{ on }">
               <v-btn
-                text
-                icon
-                v-on="on"
-                style="background:#0e76a8"
-                class="mx-2"
-                color="white"
-                rel="noreferrer"
-                href="https://www.linkedin.com/showcase/gccdi/"
-                target="_blank"
-                slot="activator"
-              >
+              text
+              icon  
+              rounded
+              style="background: rgb(31 32 35);height: 45px;width: 146px;"
+              class="mx-2"
+              v-on="on"
+              color="white"
+              rel="noreferrer"
+              href="https://www.linkedin.com/showcase/gccdi/"
+              target="_blank"
+              slot="activator"
+              
+            >
                 <v-icon>mdi-linkedin</v-icon>
+                GDGIndia
               </v-btn>
             </template>
             <span>Linkedin</span>
