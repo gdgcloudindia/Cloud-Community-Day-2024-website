@@ -1,18 +1,18 @@
 <template>
   <v-main class="m-0">
     <v-container fluid class="mt-0 py-0">
-      <v-row align="center" justify="center" class="mt-0 pt-0" >
+      <v-row align="center" justify="center" class="mt-0 pt-0" style="background: #000" >
         <v-col md="10" lg="10" sm="12" class="my-4" >
           <Hero class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
           <!-- <Countdown class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
           <!-- <YoutubeLinks class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
-          <About class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
-          <ChapterCards class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
-          <Events class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
-          <Theme class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
-          <Cert class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
-          <DevFestMoments class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
-          <card class="mt-md-8 mb-md-0 my-xs-0 py-xs-0 hidden-sm-and-down"/>
+          <!-- <About class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
+          <!-- <ChapterCards class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" /> -->
+          <!-- <Events class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" /> -->
+          <!-- <Theme class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" /> -->
+          <!-- <Cert class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
+          <!-- <DevFestMoments class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
+          <!-- <card class="mt-md-8 mb-md-0 my-xs-0 py-xs-0 hidden-sm-and-down"/> -->
           
         </v-col>
       </v-row>
@@ -34,7 +34,7 @@
       </v-row> -->
 
       <!-- Follow Us -->
-      <v-row align="center" justify="center" class="" >
+      <v-row align="center" justify="center" class="" style="background-color: #000;" >
         <v-col md="6" lg="6" sm="10" class="text-center">
           <FollowUs class="mt-md-0 mb-md-10 my-xs-0" />
         </v-col>
@@ -49,18 +49,18 @@ export default {
   name: "Home",
   components: {
     Hero:()=> import("@/components/home/Hero"),
-    Events:() => import("@/components/home/Events"),
-    ChapterCards:() => import("@/components/home/ChapterCards"),
+   // Events:() => import("@/components/home/Events"),
+    //ChapterCards:() => import("@/components/home/ChapterCards"),
     // Countdown:()=> import("@/components/home/Countdown"),
     // YoutubeLinks:()=> import("@/components/home/YoutubeLinks"),
-    About:()=> import("@/components/home/About"),
-    DevFestMoments: () => import("@/components/home/DevFestMoments"),
+    // About:()=> import("@/components/home/About"),
+    // DevFestMoments: () => import("@/components/home/DevFestMoments"),
     FollowUs: () => import("@/components/home/follow"),
-    Cert: () => import("@/components/home/Cert"),
+   // Cert: () => import("@/components/home/Cert"),
     // HomeScreen: ()=> import('@/components/home/homescreen'),
     // Stats: ()=> import('@/components/home/Stats'),
-    Theme: ()=> import('@/components/home/theme'),
-    card: ()=> import('@/components/home/cards'),
+   // Theme: ()=> import('@/components/home/theme'),
+    //card: ()=> import('@/components/home/cards'),
   },
 };
 </script>

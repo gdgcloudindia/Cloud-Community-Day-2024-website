@@ -1,8 +1,8 @@
 <template>
-  <v-footer class="ma-0" height="auto">
+  <v-footer class="ma-0 footer-wrapper" height="auto">
     <v-container
       fluid
-      class="grey lighten-4"
+      class="footer-container"
     >
       <v-row justify="center" align="center">
         <v-col md="10" lg="10" sm="11" xl="10" cols="12">
@@ -21,33 +21,41 @@
                 <v-icon>mdi-chevron-up</v-icon>
               </v-btn>
             </v-fab-transition>-->
-            <h1
+            <!-- <h1
               class="google-font"
-            >GDG Cloud India</h1>
+            >GDG Cloud India</h1> -->
+            <v-img
+          alt="Vuetify Logo"
+          class="shrink mr-2"
+          contain
+          :src="require('@/assets/img/logo-vector-svg.svg')"
+          transition="scale-transition"
+          width="170"
+        />
           </v-card-text> 
         </v-col>
       </v-row>
-      <v-row justify="center" align="center">
+      <v-row justify="end" align="center" class="text-right">
         <v-col md="10" sm="11" xl="10" lg="10" cols="12" class="">
           <a href="https://developers.google.com/community/gdg" target="_blank"
             rel="noreferrer"
-            class="grey--text text--darken-3 mr-4 google-font"
-            style="text-decoration:none;"
+            class="white-text mr-4 google-font"
+            style="text-decoration:none; color: #fff"
           >About GDG Program</a>
           <br class="hidden-md-and-up">
           <router-link
             to="/faq"
             rel="noreferrer"
-            class="mr-3 google-font grey--text text--darken-3"
-            style="text-decoration:none;"
+            class="mr-3 google-font"
+            style="text-decoration:none;color: #fff"
           >FAQ</router-link>
           <br class="hidden-md-and-up">
-          <router-link to="/coc" style="text-decoration:none;" rel="noreferrer" class="mr-3 google-font grey--text text--darken-3">Code of conduct</router-link> 
+          <router-link to="/coc" style="text-decoration:none;color: #fff" rel="noreferrer" class="mr-3 google-font">Code of conduct</router-link> 
           <br class="hidden-md-and-up">
           <a href="https://developers.google.com/community-guidelines" target="_blank"
             rel="noreferrer"
-            class="mr-4 google-font grey--text text--darken-3"
-            style="text-decoration:none;"
+            class="mr-4 google-font"
+            style="text-decoration:none;color: #fff"
           >Community Guidelines</a>
         </v-col>
       </v-row>
@@ -65,3 +73,17 @@ export default {
   }
 };
 </script>
+<style>
+.footer-wrapper {
+  background-color: #000 !important;
+} 
+.footer-wrapper .footer-container {
+  border-radius: 40px;
+    color: #fff;
+    width: 80%;
+    background-color: #1f2023 !important;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px 14px;
+}
+</style>
