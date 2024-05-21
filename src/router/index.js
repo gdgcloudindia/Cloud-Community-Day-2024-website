@@ -122,6 +122,15 @@ Vue.use(VueRouter)
       color: 'white'
     }
   },
+  //   {
+  //   path: '/certifications',
+  //   name: 'Certifications',
+  //   component: () => import(/* webpackChunkName: "speakers" */ '../components/home/Certifications.vue'),
+  //   meta: {
+  //     title: 'Certifications | Google Cloud Community Days India',
+  //     color: 'white'
+  //   }
+  // },
 
   // {
   //   path: '/coc',

@@ -93,8 +93,11 @@ export default {
     ...mapMutations(["toggleDrawer"]),
     onClick(e, item) {
       e.stopPropagation();
-      if (item.to || !item.href) return;
-      this.$vuetify.goTo(item.href);
+      // if (item.to || !item.href) return;
+      // this.$vuetify.goTo(item.href);
+      let elmnt = document.getElementById(item.text.toLowerCase());
+      elmnt.scrollIntoView(false);
+      e.currentTarget.className='google-font v-tab--active v-tab';
     },
     getRouteName() {
       if (

@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid class="ma-0 google-font text-white">
+  <v-container id="certifications" fluid class="ma-0 google-font text-white">
     <div class="certifications-header">
     <h6 style="font-size: 25px; font-weight: 400">
       Accelerate your career growth with
