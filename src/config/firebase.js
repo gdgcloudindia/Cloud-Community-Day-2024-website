@@ -7,12 +7,13 @@ import "firebase/messaging";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA8XGXfEDM7W51onQWX9hrB1SBlLKx9nrk",
-  authDomain: "cloud-community-day-2023.firebaseapp.com",
-  projectId: "cloud-community-day-2023",
-  storageBucket: "cloud-community-day-2023.appspot.com",
-  messagingSenderId: "801834964117",
-  appId: "1:801834964117:web:f1b5e599a334ba787e379c"
+  apiKey: "AIzaSyALP2-nm-GIw0QVPyRZm3UfzT5A4RtXLj8",
+  authDomain: "cloud-community-days-2024.firebaseapp.com",
+  projectId: "cloud-community-days-2024",
+  storageBucket: "cloud-community-days-2024.appspot.com",
+  messagingSenderId: "711088088473",
+  appId: "1:711088088473:web:420a57748e6ab3f2471f08",
+  measurementId: "G-BXS8KC20J9"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
