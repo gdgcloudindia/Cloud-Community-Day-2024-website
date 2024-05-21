@@ -1,0 +1,54 @@
+name: Deploy App
+
+on:
+  push:
+    branches:
+      - main
+  
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    env:
+      FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js version
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: ".nvmrc"
+
+      - name: Install Firebase CLI
+        run: |
+          npm install -g firebase-tools
+
+      - name: Get node env variables
+        id: node-env
+        run: |
+          echo "dir=$(npm config get cache)" >> GITHUB_OUTPUT
+          echo "version=$(node -v)" >> GITHUB_OUTPUT
+      - name: Restore Cache
+        uses: actions/cache@v2
+        id: cache
+        with:
+          path: |
+            ${{steps.node-env.outputs.dir}}
+            node_modules
+          key: ${{runner.os}}-node-${{steps.node-env.outputs.version}}-${{hashFiles('./package-lock.json')}}
+          restore-keys: |
+            ${{runner.os}}-node-
+            ${{runner.os}}-
+
+      - name: Install Packages
+        if: ${{steps.cache.outputs.cache-hit != 'true'}}
+        run: |
+          echo npm cache hit $(["${{steps.cache.outputs.cache-hit}}" == "true"] && echo "on" || echo "off")
+          npm install
+
+      - name: Building App
+        run: |
+          npm run build
+
+      - name: Deploying Admin App
+        run: firebase deploy
