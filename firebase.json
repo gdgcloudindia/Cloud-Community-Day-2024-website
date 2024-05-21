@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "cloud-community-day-2023",
+    "site": "cloud-community-day-2024",
     "public": "dist",
     "ignore": [
       "firebase.json",
