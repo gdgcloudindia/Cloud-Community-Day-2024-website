@@ -4,9 +4,10 @@
       <v-row align="center" justify="center" class="mt-0 pt-0" style="background: #000" >
         <v-col md="10" lg="10" sm="12" class="my-4" >
           <Hero class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
+          <!-- <About class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
+          <AboutGDG class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
           <!-- <Countdown class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
           <!-- <YoutubeLinks class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
-          <!-- <About class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
           <!-- <ChapterCards class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" /> -->
           <!-- <Events class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" /> -->
           <!-- <Theme class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" /> -->
@@ -68,6 +69,7 @@ export default {
   name: "Home",
   components: {
     Hero:()=> import("@/components/home/Hero"),
+    AboutGDG:()=> import("@/components/home/AboutGDG"),
    // Events:() => import("@/components/home/Events"),
     //ChapterCards:() => import("@/components/home/ChapterCards"),
     // Countdown:()=> import("@/components/home/Countdown"),
