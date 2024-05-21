@@ -60,10 +60,7 @@
 </template>
 
 <script>
-<<<<<<< Updated upstream
-=======
 import AboutGDG from '../components/home/AboutGDG.vue';
->>>>>>> Stashed changes
 
 export default {
   name: "Home",
