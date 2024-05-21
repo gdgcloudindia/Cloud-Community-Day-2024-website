@@ -21,22 +21,28 @@ export default {
         },
         getImgUrl(pic, defaultimage = "maleAvatar.jpg") {
             if (pic.length > 0) {
+                // eslint-disable-next-line no-undef
                 return require('@/assets/img/speakers/' + pic)
             } else {
+                // eslint-disable-next-line no-undef
                 return require('@/assets/img/common/' + defaultimage);
             }
         },
         getPartnerImgUrl(pic, defaultimage = "maleAvatar.jpg") {
             if (pic.length > 0) {
+                // eslint-disable-next-line no-undef
                 return require('@/assets/img/partners/' + pic)
             } else {
+                // eslint-disable-next-line no-undef
                 return require('@/assets/img/common/' + defaultimage);
             }
         },
         getTeamImgUrl(pic, defaultimage = "maleAvatar.jpg") {
             if (pic.length > 0) {
+                // eslint-disable-next-line no-undef
                 return require('@/assets/img/team/' + pic)
             } else {
+                // eslint-disable-next-line no-undef
                 return require('@/assets/img/common/' + defaultimage);
             }
         },

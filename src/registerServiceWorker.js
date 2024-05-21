@@ -3,7 +3,9 @@
 import { register } from "register-service-worker";
 import FDK from "@/config/firebase";
 
+// eslint-disable-next-line no-undef
 if (process.env.NODE_ENV === "production") {
+  // eslint-disable-next-line no-undef
   register(`${process.env.BASE_URL}service-worker.js`, {
     ready() {
       console.log(

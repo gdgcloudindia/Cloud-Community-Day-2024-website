@@ -5,7 +5,6 @@
         <v-col md="10" lg="10" sm="12" class="my-4" >
           <Hero class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
           <!-- <About class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
-          <AboutGDG class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
           <!-- <Countdown class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
           <!-- <YoutubeLinks class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
           <!-- <ChapterCards class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" /> -->
@@ -34,13 +33,6 @@
         </v-col>
       </v-row> -->
 
-      <!-- Follow Us -->
-      <v-row align="center" justify="center" class="" style="background-color: #000;" >
-        <v-col md="6" lg="6" sm="10" class="text-center">
-          <FollowUs class="mt-md-0 mb-md-10 my-xs-0" />
-        </v-col>
-      </v-row>
-
       <!-- Certifications -->
       <v-row align="center" justify="center" class="py-0 my-0" style="background: #000">
         <v-col md="10" lg="10" sm="12" class="py-0 my-0">
@@ -52,6 +44,14 @@
       <v-row align="center" justify="center" class="py-0 my-0" style="background: #000">
         <v-col md="10" lg="10" sm="12" class="py-0 my-0">
           <Highlights class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
+        </v-col>
+      </v-row>
+      
+            <!-- Follow Us -->
+            <v-row align="center" justify="center" class="" style="background-color: #000;" >
+        <v-col md="10" lg="10" sm="10" class="text-center">
+          <AboutGDG class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/>
+          <FollowUs class="mt-md-0 mb-md-10 my-xs-0" />
         </v-col>
       </v-row>
 

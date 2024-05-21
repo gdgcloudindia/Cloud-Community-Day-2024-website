@@ -5,12 +5,11 @@
     clipped-left
     flat
     style="background-color: #000 !important;"
-    class="pt-4"
   >
     <v-app-bar-nav-icon
       aria-label="Hamburger Btn"
       @click="toggleDrawer"
-      class="d-md-none d-lg-none"
+      class="d-md-none d-lg-none hamburger-btn"
     ></v-app-bar-nav-icon>
 
     <div class="d-flex align-center" style="padding-left: 6px;">
@@ -140,6 +139,23 @@ export default {
 }
 .v-toolbar {
   z-index: 1999 !important;
-    border: none !important
+    border: none !important;
+    padding-top: 16px !important;
+}
+
+@media only screen and (max-width: 668px) {
+  .v-toolbar .v-toolbar__content {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 0;
+  }
+
+  .hamburger-btn .mdi-menu::before {
+  color: #fff !important
+ }
+
+ .v-toolbar {
+  padding-top: 0 !important;
+ }
 }
 </style>

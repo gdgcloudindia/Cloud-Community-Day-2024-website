@@ -46,4 +46,7 @@ export default {
 .v-size--small {
   min-width: 50px !important;
 }
+.v-item-group.v-bottom-navigation .v-btn, .v-item-group.v-bottom-navigation .v-btn .v-btn__content {
+  color: #fff !important;
+}
 </style>

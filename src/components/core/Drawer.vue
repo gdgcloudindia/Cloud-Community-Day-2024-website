@@ -67,3 +67,15 @@ export default {
   }
 };
 </script>
+<style>
+.v-navigation-drawer__content {
+  background: #1f2023;
+}
+.v-list-item {
+  color: #fff !important;
+  caret-color: #fff !important;
+}
+.v-icon.v-icon {
+  color: #fff;
+}
+</style>
