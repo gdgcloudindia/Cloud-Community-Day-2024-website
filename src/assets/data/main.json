@@ -9,28 +9,16 @@
     "longdes": "As the world is coming to terms with this new way of life, we communities are also adopting new formats and methods to bring you all India’s biggest developers conference <b>DevFest India 2020</b> online with talks, activities, fun & much more. <br><br>From beginners to experts, coders to creatives, DevFest India 2020 conference is for everyone, so come along, share your knowledge and learn something new.",
     "stats": [
         {
-            "name": "Communities",
-            "count": "40+"
+            "name": "Industry Experts",
+            "count": "200+"
         },
         {
-            "name": "Tracks",
-            "count": "05"
+            "name": "Attendees",
+            "count": "40,000"
         },
         {
-            "name": "Expert Speakers",
-            "count": "26"
-        },
-        {
-            "name": "Exclusive Sessions",
-            "count": "15+"
-        },
-        {
-            "name": "Live Activities",
-            "count": "10"
-        },
-        {
-            "name": "Days Full of Fun",
-            "count": "03"
+            "name": "Cities",
+            "count": "16"
         }
     ],
     "registrationData": {

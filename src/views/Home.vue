@@ -43,9 +43,10 @@
         </v-col>
       </v-row> -->
 
-      <!-- Certifications -->
+      <!-- Certifications & Stats -->
       <v-row align="center" justify="center" class="spacing-wrapper" style="background: #000">
         <v-col md="10" lg="10" sm="12" class="py-0 my-0">
+          <Stats class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
           <Certifications class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
         </v-col>
       </v-row>
@@ -88,7 +89,7 @@ export default {
     Highlights: () => import("@/components/home/Highlights"),
    // Cert: () => import("@/components/home/Cert"),
     // HomeScreen: ()=> import('@/components/home/homescreen'),
-    // Stats: ()=> import('@/components/home/Stats'),
+    Stats: ()=> import('@/components/home/Stats'),
    // Theme: ()=> import('@/components/home/theme'),
     //card: ()=> import('@/components/home/cards'),
   },
