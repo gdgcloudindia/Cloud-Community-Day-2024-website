@@ -4,6 +4,7 @@
     "city": "Bhubaneswar",
     "date": "19 March 2023",
     "link": "https://gdg.community.dev/gdg-cloud-bhubaneswar-1/",
+    "place": "Bhubaneswar",
     "rsvp": "",
     "card": "bhubaneswar.png"
   },
@@ -12,6 +13,7 @@
     "city": "Motihari",
     "date": "8 April 2023",
     "link": "https://gdg.community.dev/gdg-cloud-motihari/",
+    "place": "Motihari",
     "rsvp": "",
     "card": "motihari.png"
   },
@@ -20,6 +22,7 @@
     "city": "Bhopal",
     "date": "16 April 2023",
     "link": "https://gdg.community.dev/gdg-cloud-bhopal/",
+    "place": "Bhopal",
     "rsvp": "",
     "card": "bhopal.png"
   },
@@ -28,6 +31,7 @@
     "city": "Coimbatore",
     "date": "22 April 2023",
     "link": "https://gdg.community.dev/gdg-cloud-coimbatore/",
+    "place": "Coimbatore",
     "rsvp": "",
     "card": "coimbatore.png"
   },
@@ -36,6 +40,7 @@
     "city": "Madurai",
     "date": "29 April 2023",
     "link": "https://gdg.community.dev/gdg-cloud-madurai/",
+    "place": "Madurai",
     "rsvp": "",
     "card": "madurai.png"
   },
@@ -44,6 +49,7 @@
     "city": "Mumbai",
     "date": "29 April 2023",
     "link": "https://gdg.community.dev/gdg-cloud-mumbai/",
+    "place": "Mumbai",
     "rsvp": "",
     "card": "mumbai.png"
   },
@@ -52,6 +58,7 @@
     "city": "Jaipur",
     "date": "April / May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-jaipur/",
+    "place": "Jaipur",
     "rsvp": "",
     "card": "jaipur.png"
   },
@@ -60,6 +67,7 @@
     "city": "Bangalore",
     "date": "April / May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-bengaluru/",
+    "place": "Bangalore",
     "rsvp": "",
     "card": "bengaluru.png"
   },
@@ -68,6 +76,7 @@
     "city": "Kochi",
     "date": "6 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-kochi/",
+    "place": "Kochi",
     "rsvp": "",
     "card": "kochi.png"
   },
@@ -76,6 +85,7 @@
     "city": "Kolkata",
     "date": "7 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-kolkata/",
+    "place": "Kolkata",
     "rsvp": "",
     "card": "kolkata.png"
   },
@@ -84,6 +94,7 @@
     "city": "Indore",
     "date": "20 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-indore/",
+    "place": "Indore",
     "rsvp": "https://gdg.community.dev/events/details/google-gdg-cloud-indore-presents-google-cloud-community-day-indore-2023/",
     "card": "indore.png"
   },
@@ -92,6 +103,7 @@
     "city": "Nagpur",
     "date": "28 May 2023",
     "link": "https://gdg.community.dev/e/m6mrwc/",
+    "place": "Nagpur",
     "rsvp": "https://forms.gle/JjJUNT8kdohPvmW88",
     "card": "nagpur.png"
   },
@@ -100,6 +112,7 @@
     "city": "Trivandrum",
     "date": "13 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-trivandrum/",
+    "place": "Trivandrum",
     "rsvp": "",
     "card": "trivandrum.png"
   },
@@ -108,6 +121,7 @@
     "city": "Chennai",
     "date": "13 / 14 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-chennai/",
+    "place": "Chennai",
     "rsvp": "",
     "card": "chennai.png"
   },
@@ -116,6 +130,7 @@
     "city": "Delhi/Gurgaon",
     "date": "13 / 14 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-new-delhi/",
+    "place": "Delhi",
     "rsvp": "",
     "card": "delhi.png"
   },
@@ -124,6 +139,7 @@
     "city": "Mysore",
     "date": "15 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-mysuru/",
+    "place": "Mysore",
     "rsvp": "",
     "card": "mysuru.png"
   },
@@ -132,6 +148,7 @@
     "city": "Ahmedabad",
     "date": "20 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-ahmedabad/",
+    "place": "Ahmedabad",
     "rsvp": "",
     "card": "ahmedabad.png"
   },
@@ -140,6 +157,7 @@
     "city": "Pune",
     "date": "27 May 2023",
     "link": "https://gdg.community.dev/gdg-cloud-pune/",
+    "place": "Pune",
     "rsvp": "",
     "card": "pune.png"
   },
@@ -148,6 +166,7 @@
     "city": "Hyderabad",
     "date": "May 2023*",
     "link": "https://gdg.community.dev/gdg-cloud-hyderabad/",
+    "place": "Hyderabad",
     "rsvp": "",
     "card": "hyderabad.png"
   },
@@ -156,6 +175,7 @@
     "city": "Chandigarh",
     "date": "TBD",
     "link": "https://gdg.community.dev/gdg-cloud-chandigarh/",
+    "place": "Chandigarh",
     "rsvp": "",
     "card": "chandigarh.png"
   },
@@ -164,6 +184,7 @@
     "city": "Madurai",
     "date": "29 April 2023",
     "link": "https://gdg.community.dev/gdg-cloud-madurai/",
+    "place": "Madurai",
     "rsvp": "https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-google-cloud-community-day-madurai-2023/",
     "card": "madurai.png"
   }
