@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "export NODE_OPTIONS=--openssl-legacy-provider &&  vue-cli-service serve",
+    "serve": "vue-cli-service --openssl-legacy-provider serve",
     "build": "vue-cli-service --openssl-legacy-provider build",
     "lint": "vue-cli-service --openssl-legacy-provider lint",
     "fx": "vue-cli-service --openssl-legacy-provider build && firebase deploy"
