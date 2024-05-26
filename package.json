@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service --openssl-legacy-provider serve",
+    "serve": "export NODE_OPTIONS=--openssl-legacy-provider &&  vue-cli-service serve",
     "build": "vue-cli-service --openssl-legacy-provider build",
     "lint": "vue-cli-service --openssl-legacy-provider lint",
     "fx": "vue-cli-service --openssl-legacy-provider build && firebase deploy"
@@ -12,6 +12,7 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "firebase": "^7.22.1",
+    "moment": "^2.30.1",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
