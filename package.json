@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service --openssl-legacy-provider serve",
-    "build": "vue-cli-service --openssl-legacy-provider build",
-    "lint": "vue-cli-service --openssl-legacy-provider lint",
-    "fx": "vue-cli-service --openssl-legacy-provider build && firebase deploy"
+    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+    "lint": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service lint",
+    "fx": "npm run build && firebase deploy"
   },
   "dependencies": {
     "axios": "^0.21.1",
