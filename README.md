@@ -22,3 +22,14 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## For making PR adding the upcoming events at community.json file here is the format:
+{
+    "community": "GDG Cloud ChapterXYZ",
+    "city": "XYZ",
+    "date": "",
+    "link": "",
+    "place": "",
+    "rsvp": "",
+    "card": ""
+  }
