@@ -10,7 +10,7 @@
                 Find Latest upcoming events
             </h2>
         </div>
-        <v-row align="center" justify="center" class="py-10">
+        <v-row align="center" justify="center" class="py-10"  v-if="chapters.length > 0">
             <v-col cols="12" sm="12" md="6" lg="4" v-for="(eventData, index) in chapters" :key="index">
                 <v-card class="pa-10" style="background: #1f2023; border-radius: 60px">
                     <div :class="`pa-5 mb-5 d-flex flex-column align-center ${getStyle(index)}`"
@@ -19,8 +19,8 @@
                     </div>
 
                     <h2 class="text-white">On {{ eventData.date }}</h2>
-                    <h5 class="text-white">at {{ eventData.place }}</h5>
-                    <div class="d-flex flex-column">
+                    <h5 class="text-white">at {{ eventData.place }}</h5>    
+                    <div class="d-flex flex-column">   
                         <v-btn large rounded dark :href="`${eventData.rsvp}`" target="_blank" style="
                   background: linear-gradient(145.24deg,#076eff 541.5%,#69a3ff 8780.84%);
                   border-radius: 90px;
@@ -32,6 +32,13 @@
                                 More</strong></v-btn>
                     </div>
                 </v-card>
+            </v-col>
+        </v-row>
+        <v-row align="center" justify="center" v-if="chapters.length == 0">
+            <v-col cols="12" sm="12" md="6" lg="4">
+                <div>
+                    <img src="../../assets/img/no-data-available.png" alt="no data" style="width:100%" />
+                </div>
             </v-col>
         </v-row>
     </v-container>

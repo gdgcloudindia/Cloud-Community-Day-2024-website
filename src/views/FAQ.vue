@@ -3,7 +3,7 @@
     <v-container fluid class="my-0 py-0 mt-5 mb-10">
       <v-row align="start" justify="center" class="my-0 py-0">
         <v-col md="2" lg="2" sm="11" cols="12" class="px-5">
-          <p class="google-font mb-5" style="font-size: 3.5vh;line-height: 1.22;font-weight:500;color:#4285F4">
+          <p class="google-font mb-5" style="font-size: 3.5vh;line-height: 1.22;font-weight:500;color:#fff">
             FAQ
           </p>
           <p class="google-font my-0">Need Answers?</p>
@@ -13,8 +13,8 @@
           <v-container fluid>
                 <v-row v-for="(coc,i) in faqData" :key="i">
                     <v-col md="8">
-                        <p style="color:#4285F4;font-size:120%" class="google-font mb-2">{{coc.question}}</p>
-                        <p>{{coc.answer}}</p>
+                        <p style="color:#fff;font-size:120%" class="google-font mb-2">{{coc.question}}</p>
+                        <p style="color:#fff;">{{coc.answer}}</p>
                     </v-col>
                 </v-row>
                  <!-- <v-col>
