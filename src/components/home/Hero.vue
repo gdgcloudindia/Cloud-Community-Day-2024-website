@@ -2,9 +2,12 @@
   <v-container fluid class="py-0">
     <!-- Desktop Screen Class hidden-sm-and-down -->
     <v-row justify="center" align="center" class="py-5">
-      <v-col md="12" cols="12" class="text-center order-md-2 order-1"> 
+      <v-col md="12" cols="12" class="text-center order-md-2 order-1 posiwrapper"> 
         <div class="d-flex justify-center">
           <!-- <div> -->
+            <div class="position-absolute">
+              <img src="../../assets/img/introducig.svg"/>
+            </div>
             <p class="google-font mb-0 header mr-4" style="font-size: 8.2vh;line-height: 1.22;font-weight:900;color: #fff;">Google Cloud
         </p>
         <v-img
@@ -59,11 +62,13 @@
           large
           rounded
           dark
-          style="text-transform: capitalize;background-color: #fff; border: 1px solid #fff;color: #000;"
+          style="text-transform: capitalize;background-color: #fff; border: 1px solid #fff;color: #000;padding: 24px 35px;font-weight:600;"
           href="https://gdg.community.dev/"
           class="google-font mr-3 mb-3 py-4"
           target="_blank"
-          >Find an event near you</v-btn
+          >Find an event near you!
+          <v-icon>mdi-arrow-right-circle</v-icon>
+          </v-btn
         >
         </div>
       </v-col> 
@@ -78,8 +83,26 @@
   color: #fff;
 }
 
+.posiwrapper {
+  position: relative;
+  z-index: 1;
+  height: 450px;
+  padding-top: 30px;
+}
+
+.position-absolute {
+  position: absolute;
+  z-index: -1;
+  top:-6%;
+  left: 23%;
+
+}
+
 @media only screen and (max-width: 668px) {
   .image-wrapper {
+    display: none;
+  }
+  .position-absolute {
     display: none;
   }
 }

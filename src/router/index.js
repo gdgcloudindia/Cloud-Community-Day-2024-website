@@ -81,7 +81,7 @@ Vue.use(VueRouter)
   //   path: '/registration',
   //   name: 'Registration',
   //   component: () => import(/* webpackChunkName: "registration" */ '../views/Registration.vue'),
-  //   meta: {
+  //   meta: { 
   //     title: 'Registration | Google Cloud Community Days India',
   //     color: 'white'
   //   }
