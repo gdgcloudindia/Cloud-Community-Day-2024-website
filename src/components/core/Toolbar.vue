@@ -58,8 +58,10 @@
     <!-- <PushNotification /> -->
     <!--  -->
     <!-- v-if="!(this.$route.name === 'Registration')"  -->
-    <v-btn style="text-transform: capitalize;font-weight:600;border-radius:40px;padding:00% 40px;color: #000;" dark color="#fff" class="ml-4 google-font hidden-md-and-down" target="_blank" href="https://gdg.community.dev/" depressed
-      >Join GDG today</v-btn>
+    <v-btn style="text-transform: capitalize;font-weight:600;border-radius:40px;padding: 24px 35px;color: #000;" dark color="#fff" class="ml-4 google-font hidden-md-and-down" target="_blank" href="https://gdg.community.dev/" depressed
+      >Join GDG today
+      <v-icon style="transform: rotate(-45deg);">mdi-arrow-right-circle</v-icon>
+    </v-btn>
     <!-- <v-btn
       aria-label="Share Button"
       icon

@@ -1,7 +1,7 @@
 <template>
   <v-main class="m-0">
     <v-container fluid class="mt-0 py-0">
-      <v-row align="center" justify="center" class="mt-0 pt-0" style="background: #000">
+      <v-row align="center" justify="center" class="mt-0 pt-0 bg-image" style="background: #000;">
         <v-col md="10" lg="10" sm="12" class="my-4">
           <Hero class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
           <!-- <About class="mt-md-8 mb-md-0 my-xs-0 py-xs-0"/> -->
@@ -122,6 +122,10 @@ export default {
 
 .spacing-wrapper {
   padding-top: 12rem !important;
+}
+
+.bg-image {
+  background-image: url('../assets/img/hero-line.svg') !important;
 }
 
 @media only screen and (max-width: 668px) {
