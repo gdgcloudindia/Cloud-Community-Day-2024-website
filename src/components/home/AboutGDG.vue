@@ -2,9 +2,9 @@
     <v-container fluid class="py-10 ma-0">
       <v-row justify="center" align="center" >
         <v-col md="12" cols="12" class="py-7"> 
-            <v-card style="background-color: #000;" class="card-wrapper">
+            <v-card style="background-color: #000;" class="card-wrapper text-left">
                 <p class="google-font" style="font-size: 30px;color:#fff;line-height: 1.22;font-weight:300;line-height: 1.6;">
-           What is <span style="font-weight: 600;">Google Developers Groups</span>
+           What is <br /><span style="font-weight: 600;font-size: 40px;">Google Developers Groups ?</span>
           </p>
   
           <p class="google-font" style="font-size: 110%;color:#fff;line-height: 1.22;font-weight:300;line-height: 1.6;">
@@ -22,7 +22,9 @@
             href="https://gdg.community.dev/"
             class="google-font mr-3 mb-3"
             target="_blank"
-            >Find a chapter near you</v-btn
+            >Find a chapter near you 
+            <v-icon style="transform: rotate(-45deg);">mdi-arrow-right-circle</v-icon>
+            </v-btn
           >
 
           <v-btn
@@ -36,7 +38,9 @@
             href="javascript:void(0)"
             class="google-font mr-3 mb-3"
             target="_blank"
-            >Watch intro video</v-btn
+            >Watch intro video
+            <v-icon style="transform: rotate(-45deg);">mdi-arrow-right-circle</v-icon>
+            </v-btn
           >
           </div>
             </v-card>
