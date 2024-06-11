@@ -22,7 +22,7 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          :src="require('@/assets/img/logo-vector-svg.svg')"
+          :src="require('@/assets/img/gdgcloud.svg')"
           transition="scale-transition"
           width="170"
         />
