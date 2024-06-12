@@ -39,8 +39,12 @@
               outlined
               href="https://cloud.google.com/learn/certification"
               target="_blank"   
-              style="text-transform: capitalize"
-              class="mt-4 google-font"
+              style="
+              text-transform: capitalize;
+              letter-spacing: normal;
+              font-size: 15px;
+              "
+              class="mt-4 px-4 py-7 google-font"
               >Learn More</v-btn
             >
             <v-btn
@@ -53,10 +57,12 @@
                 background: linear-gradient(145.24deg,#076eff 541.5%,#69a3ff 8780.84%);
                 border-radius: 90px;
                 text-transform: capitalize;
+                letter-spacing: normal;
+                font-size: 15px;
               "
               class="py-7 px-4 mt-4 google-font"
               >Apply Now
-              <v-icon>mdi-arrow-right-circle</v-icon>
+              <v-icon class="ps-2 mt-1" style="transform: rotate(-45deg);">mdi-arrow-right-circle</v-icon>
             </v-btn>
           </div>
         </v-card>
