@@ -14,7 +14,7 @@
             <v-carousel-item>
                 <v-row align="center" justify="center" class="py-10" v-if="chapters.length > 0">
                     <template v-for="(eventData) in chapters">
-                        <v-col cols="12" sm="12" md="6" lg="3" v-for="(communityData, evIndex) in eventData"
+                        <v-col cols="12" sm="12" md="6" lg="4" v-for="(communityData, evIndex) in eventData"
                             :key="evIndex">
                             <v-card class="pa-10"
                                 style="background: #000; border-color:#1f2023; border-width: 2px; border-radius: 60px; border-style: solid;">
@@ -80,7 +80,7 @@
 import CommunityData from "@/assets/data/community.json";
 import moment from "moment";
 
-const CHUNK_SIZE = 4;
+const CHUNK_SIZE = 3;
 const DATE_FORMAT = "DD/MM/YYYY";
 const DATE_DISPLAY_FORMAT = "D MMM YYYY"
 
