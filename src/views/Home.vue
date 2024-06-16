@@ -45,19 +45,19 @@
 
       <!-- Upcoming Events -->
       <v-row align="center" justify="center" class="spacing-wrapper" style="background: #000">
-        <v-col md="10" lg="10" sm="12" class="py-0 my-0">
+        <v-col md="10" lg="10" sm="12">
           <UpcomingEvents />
         </v-col>
       </v-row>
 
-      <v-row align="center" justify="center" class="spacing-wrapper" style="background: #000">
-        <v-col md="10" lg="10" sm="12" class="py-0 my-0">
+      <v-row align="center" justify="center" class="spacing-wrapper py-0" style="background: #000">
+        <v-col md="10" lg="10" sm="12">
           <EventMap />
         </v-col>
       </v-row>
 
       <!-- Certifications & Stats -->
-      <v-row align="center" justify="center" class="spacing-wrapper" style="background: #000">
+      <v-row align="center" justify="center" class="spacing-wrapper py-0" style="background: #000">
         <v-col md="10" lg="10" sm="12" class="py-0 my-0">
           <Stats class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
           <Certifications class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
