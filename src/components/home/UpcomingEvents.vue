@@ -10,9 +10,9 @@
                 Find Latest upcoming events
             </h2>
         </div>
-        <v-carousel :show-arrows="false">
+        <v-carousel :show-arrows="false" v-if="chapters.length > 0">
             <v-carousel-item>
-                <v-row align="center" justify="center" class="py-10" v-if="chapters.length > 0">
+                <v-row align="center" justify="center" class="py-10">
                     <template v-for="(eventData) in chapters">
                         <v-col cols="12" sm="12" md="6" lg="4" v-for="(communityData, evIndex) in eventData"
                             :key="evIndex">

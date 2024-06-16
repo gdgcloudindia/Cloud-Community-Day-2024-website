@@ -8,13 +8,19 @@
         <v-row v-show="!loading" align="center" justify="center" class="mt-0 pt-0">
             <v-col md="12" lg="12" sm="12" cols="12" class="lighten-5" style="padding: 0; border-radius: 60px;">
                 <iframe @load="load"
-                    src="https://www.google.com/maps/d/embed?mid=170r7HuPqmC_2IscRoMNk5TgYw8JOjd4&ehbc=2E312F&z=4.7"
+                    src="https://www.google.com/maps/d/embed?mid=1jdtS_Hh9zyzgHIOeRQvRXBXxBzE33j8&ehbc=2E312F&z=4.7&noprof=1"
                     width="100%" height="500" id="myIframe"
                     style="border:0;border-radius:60px; background-color: #000;">Loading...</iframe>
             </v-col>
         </v-row>
     </v-container>
 </template>
+
+<style>
+iframe .i4ewOd-pzNkMb-haAclf {
+    display: none !important;
+}
+</style>
 
 <script>
 export default {
