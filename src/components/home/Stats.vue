@@ -11,12 +11,13 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col md="3" cols="6" style="margin: 0 auto;"  v-for="(item, index) in maindata.stats" :key="index" class="text-center">
+            <v-col md="3" cols="6" style="margin: 0 auto;" v-for="(item, index) in maindata.stats" :key="index"
+              class="text-center">
               <p class="google-font mb-0" style="color:#fff;font-size:300%">
-                {{item.count}}
+                {{ item.count }}
               </p>
               <p class="google-font mb-0" style="color:#fff;font-size: 20px;">
-                {{item.name}}
+                {{ item.name }}
               </p>
             </v-col>
           </v-row>
@@ -28,11 +29,11 @@
 
 <script>
 import maindata from '@/assets/data/main.json'
-  export default {
-    components:{
-    },
-    data:()=>({
-      maindata:maindata
-    })
-  }
+export default {
+  components: {
+  },
+  data: () => ({
+    maindata: maindata
+  })
+}
 </script>
