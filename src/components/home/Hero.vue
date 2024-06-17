@@ -55,7 +55,7 @@
         >
         </div>
         <div class="pt-4">
-          <span class="google-font mr-3 mb-3 py-1 text-white" style="font-size: 25px;">June to August</span>
+          <span class="google-font mr-3 mb-3 py-1 text-white june-august-btn" style="font-size: 25px;">June to August</span>
           <v-btn
           depressed
           rel="noreferrer"
@@ -104,6 +104,10 @@
   }
   .position-absolute {
     display: none;
+  }
+
+  .june-august-btn {
+    display: inline-block;
   }
 }
 </style>

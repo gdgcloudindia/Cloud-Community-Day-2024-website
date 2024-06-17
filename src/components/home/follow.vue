@@ -156,3 +156,10 @@
     </v-row>
   </v-container>
 </template>
+<style>
+@media only screen and (max-height: 990px) {
+  .v-btn {
+    margin-bottom: 20px !important;
+  }
+}
+</style>
