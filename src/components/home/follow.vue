@@ -1,6 +1,6 @@
 <template>
   <v-container fluid class="">
-    <v-row justify="center" align="center">
+    <v-row justify="center" align="center" class="follow-btn-wrapper">
       <v-col>
         <!-- <p
           class="google-font"
@@ -158,7 +158,7 @@
 </template>
 <style>
 @media only screen and (max-height: 990px) {
-  .v-btn {
+  .follow-btn-wrapper .v-btn {
     margin-bottom: 20px !important;
   }
 }
