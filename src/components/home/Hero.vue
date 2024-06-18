@@ -27,7 +27,7 @@
 
         </div>  
         <p class="google-font mb-2 header" style="font-size: 10.2vh;line-height: 1.22;font-weight:900;color: #fff;">Community Days</p>
-        <div>
+        <div class="pt-8">
           <v-btn
           depressed
           rel="noreferrer"
@@ -49,13 +49,13 @@
           dark
           style="text-transform: capitalize;background-color: #076eff; border: 1px solid #076eff"
           href="javascript:void(0)"
-          class="google-font mr-3 mb-3 py-1"
+          class="google-font mr-3 mb-3 py-1 flip-animation"
           target="_blank"
           >Generative AI</v-btn
         >
         </div>
         <div class="pt-4">
-          <span class="google-font mr-3 mb-3 py-1 text-white" style="font-size: 25px;">June to August</span>
+          <span class="google-font mr-3 mb-3 py-1 text-white june-august-btn" style="font-size: 25px;">June to August</span>
           <v-btn
           depressed
           rel="noreferrer"
@@ -98,12 +98,26 @@
 
 }
 
+.flip-animation {
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  min-width: 280px !important;
+}
+
+.flip-animation:hover {
+  transform: rotateY(360deg);
+}
+
 @media only screen and (max-width: 668px) {
   .image-wrapper {
     display: none;
   }
   .position-absolute {
     display: none;
+  }
+
+  .june-august-btn {
+    display: inline-block;  
   }
 }
 </style>

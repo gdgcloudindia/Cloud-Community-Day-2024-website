@@ -4,7 +4,7 @@
         <v-col md="12" cols="12" class="py-7"> 
             <v-card style="background-color: #000;" class="card-wrapper text-left">
                 <p class="google-font" style="font-size: 30px;color:#fff;line-height: 1.22;font-weight:300;line-height: 1.6;">
-           What is <br /><span style="font-weight: 600;font-size: 40px;">Google Developers Groups ?</span>
+           What is <br /><span style="font-weight: 600;font-size: 40px;" class="gdg-text">Google Developers Groups ?</span>
           </p>
   
           <p class="google-font" style="font-size: 110%;color:#fff;line-height: 1.22;font-weight:300;line-height: 1.6;">
@@ -12,7 +12,7 @@
             <br><br>
             Joining a GDG Cloud community offers learning opportunities through events and workshops, networking with industry peers, access to resources for skill development and certification preparation, and staying updated on cloud trends. Members can also contribute, lead activities, and grow their expertise within the cloud technology community, making Google Developer Groups Cloud an enriching experience for all levels of cloud enthusiasts and professionals.
           </p>
-          <div>
+          <div class="button-wrapper">
             <v-btn
             depressed
             rel="noreferrer"
@@ -36,7 +36,7 @@
             outlined
             style="text-transform: capitalize;color:#fff"
             href="javascript:void(0)"
-            class="google-font mr-3 mb-3"
+            class="google-font mr-3 mb-3 intro-btn"
             target="_blank"
             >Watch intro video
             <v-icon style="transform: rotate(-45deg);">mdi-arrow-right-circle</v-icon>
@@ -61,6 +61,17 @@
         border: 2px solid #1F2023 !important;
         padding: 50px;
         border-radius: 40px !important;
+    }
+    .button-wrapper .v-btn:not(.v-btn--round).v-size--large {
+      min-width: 244px;
+    }
+    @media only screen and (max-height: 990px) {
+      .gdg-text {
+        line-height: 20px;
+      }
+      .intro-btn {
+        margin-top: 10px;
+      }
     }
 </style>
   
