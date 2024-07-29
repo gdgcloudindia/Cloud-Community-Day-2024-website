@@ -1,2 +1,10 @@
-[
-]
+{
+  "community": "GDG Cloud Gandhinagar", 
+  "city": "Gandhinagar", 
+  "place": "Karnavati University, Dist, :, Gandhinagar, Gujarat, India", 
+  "date": "10/08/2024", 
+  "rsvp": "https://konfhub.com/ccdgn-2024#tickets", // rsvp link - bevy/any other forum
+  "link": "https://konfhub.com/ccdgn-2024", // link to event listing/event landing page
+  "latitude": "", // latitude for place
+  "longitude": "" // longitude for place
+}
