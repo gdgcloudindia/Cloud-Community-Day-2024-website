@@ -1,10 +1,32 @@
+[
 {
   "community": "GDG Cloud Gandhinagar", 
   "city": "Gandhinagar", 
-  "place": "Karnavati University, Dist, :, Gandhinagar, Gujarat, India", 
+  "place": "Karnavati University, Dist, Gandhinagar, Gujarat, India", 
   "date": "10/08/2024", 
   "rsvp": "https://konfhub.com/ccdgn-2024#tickets", 
   "link": "https://konfhub.com/ccdgn-2024", 
   "latitude": "23.202818900078036", 
   "longitude": "72.58381632542688" 
-}
+},
+
+  {
+    "community": "GDG Cloud Kolkata",
+    "city": "Kolkata",
+    "place": "Biswa Bangla Exhibition Center",
+    "date": "17/08/2024",
+    "rsvp": "https://ccd2024.gdgcloudkol.org/",
+    "link": "https://ccd2024.gdgcloudkol.org/",
+    "latitude": "22.58104915058283",
+    "longitude": "88.4738600911108"
+  },
+       {
+        "community": "GDG Cloud Rajkot", 
+        "city": "Rajkot", 
+        "place": "Atmiya University, Kalawad Road: Rajkot ,Gujarat, India", 
+        "date": "28/07/2024", 
+        "rsvp": "https://gdg.community.dev/events/details/google-gdg-cloud-rajkot-presents-cloud-community-days-2024-gdg-cloud-rajkot/", 
+        "link": "https://gdg.community.dev/events/details/google-gdg-cloud-rajkot-presents-cloud-community-days-2024-gdg-cloud-rajkot/", 
+        "latitude": "22.28257908841023", 
+        "longitude": "70.76776563825443" 
+      } ]
