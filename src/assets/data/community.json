@@ -1,12 +1,12 @@
 [
   {
-    "community": "GDG Cloud Kolkata", // mention name of your community
-    "city": "Kolkata", // which city does it belong to
-    "place": "Biswa Bangla Exhibition Center", // brief address of place where your event will be organized
-    "date": "17/08/2024", // format is DD/MM/YYYY, if date is not found valid it will not be shown
-    "rsvp": "https://ccd2024.gdgcloudkol.org/", // rsvp link - bevy/any other forum
-    "link": "https://ccd2024.gdgcloudkol.org/", // link to event listing/event landing page
-    "latitude": "22.58104915058283", // latitude for place
-    "longitude": "88.4738600911108" // longitude for place
+    "community": "GDG Cloud Kolkata",
+    "city": "Kolkata",
+    "place": "Biswa Bangla Exhibition Center",
+    "date": "17/08/2024",
+    "rsvp": "https://ccd2024.gdgcloudkol.org/",
+    "link": "https://ccd2024.gdgcloudkol.org/",
+    "latitude": "22.58104915058283",
+    "longitude": "88.4738600911108"
   }
 ]
