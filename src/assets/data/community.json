@@ -29,4 +29,15 @@
         "link": "https://gdg.community.dev/events/details/google-gdg-cloud-rajkot-presents-cloud-community-days-2024-gdg-cloud-rajkot/", 
         "latitude": "22.28257908841023", 
         "longitude": "70.76776563825443" 
-      } ]
+      },
+      {
+        "community": "GDG Cloud Indore", 
+        "city": "Indore", 
+        "place": "Hotel Sayaji, Indore", 
+        "date": "31/08/2024", 
+        "rsvp": "https://gdg.community.dev/events/details/google-gdg-cloud-indore-presents-google-cloud-community-day-indore-2024/cohost-gdg-cloud-indore", 
+        "link": "https://gdg.community.dev/events/details/google-gdg-cloud-indore-presents-google-cloud-community-day-indore-2024/cohost-gdg-cloud-indore", 
+        "latitude": "22.75142886029576", 
+        "longitude": "75.88949918026206" 
+      } 
+    ]
