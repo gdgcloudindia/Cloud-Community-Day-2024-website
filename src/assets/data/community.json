@@ -1,5 +1,15 @@
 [
   {
+    "community": "GDG Cloud Chennai",
+    "city": "Chennai",
+    "place": "Hablis, Chennai",
+    "date": "28/09/2024",
+    "rsvp": "https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2024-chennai/",
+    "link": "https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2024-chennai/",
+    "latitude": "13.007684246386447",
+    "longitude": "80.20828287269458"
+  },
+  {
     "community": "GDG Cloud Gandhinagar",
     "city": "Gandhinagar",
     "place": "Karnavati University, Dist, Gandhinagar, Gujarat, India",
