@@ -58,5 +58,25 @@
     "link": "https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-google-cloud-community-day-madurai-2024/",
     "latitude": "9.970880",
     "longitude": "78.098150"
+  },
+  {
+    "community": "GDG Cloud Chennai",
+    "city": "Chennai",
+    "place": "Hablis, Chennai",
+    "date": "28/09/2024",
+    "rsvp": "https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2024-chennai/",
+    "link": "https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2024-chennai/",
+    "latitude": "13.007684246386447",
+    "longitude": "80.20828287269458"
+  },
+  {
+    "community": "GDG Cloud Bhopal",
+    "city": "Bhopal",
+    "place": "LNCT University, Kolar Road, Bhopal",
+    "date": "31/08/2024",
+    "rsvp": "https://www.commudle.com/communities/gdg-cloud-bhopal/events/cloud-community-days-bhopal-2024",
+    "link": "https://gdg.community.dev/events/details/google-gdg-cloud-bhopal-presents-cloud-community-day-bhopal-2024/cohost-gdg-cloud-bhopal",
+    "latitude": "23.178139730809768",
+    "longitude": "77.42797777265785"
   }
 ]
